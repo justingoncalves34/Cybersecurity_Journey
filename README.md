@@ -37,7 +37,7 @@ My resume is available for download [here](#) (You can link to your resume in PD
 Feel free to reach out to me if you have any questions, opportunities, or just want to connect!
 
 - **Email**: justingoncalves34@gmail.com (replace with your actual email)
-- **LinkedIn**: [Justin Goncalves](https://www.linkedin.com/in/justin-goncalves) (update with your LinkedIn link)
+- **LinkedIn**: [Justin Goncalves](https://www.linkedin.com/in/justingoncalves/) (update with your LinkedIn link)
 - **GitHub**: [@justingoncalves](https://github.com/justingoncalves) (update with your GitHub username)
 
 I’m always open to networking, collaboration, and opportunities to contribute to the cybersecurity community. Thanks for visiting my portfolio!
