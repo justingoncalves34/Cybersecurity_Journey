@@ -7,8 +7,8 @@ Here, you'll find a showcase of my journey through the world of cybersecurity, i
 ## Table of Contents
 - [About Me](#about-me)
    - [Background](#background)
-     - [Certifications](#certifications)
-     - [Education](#education)
+   - [Certifications](#certifications)
+   - [Education](#education)
    - [Skills](#skills)
      - [Technical Skills](#technical-skills)
      - [Professional Skills](#professional-skills)
