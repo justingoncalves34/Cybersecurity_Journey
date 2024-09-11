@@ -7,7 +7,7 @@ My name is Justin Goncalves, and I am an aspiring cybersecurity professional wit
 
 ### My Background
 - **Certifications**:
-   - CompTIA Securit + (Expected 10/2024)
+   - CompTIA Security + (Expected 10/2024)
    - Google CyberSecurity Professional
    - Qualys Vulnerability Management, Detection, and Response (VMDR)
    - Qualys CyberSecurity Asset Management (CSAM)
