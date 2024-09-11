@@ -8,10 +8,10 @@ Here, you'll find a showcase of my journey through the world of cybersecurity, i
    - [Background](#background)
      - [Certifications](#certifications)
      - [Education](#education)
-- [Skills](#skills)
-   - [Technical Skills](#technical-skills)
-   - [Professional Skills](#professional-skills)
-   - [Tools / Languages](#tools--languages)
+   - [Skills](#skills)
+     - [Technical Skills](#technical-skills)
+     - [Professional Skills](#professional-skills)
+     - [Tools / Languages](#tools--languages)
 - [Projects](#projects)
 - [Resume](#resume)
 - [Blog Posts](#blog-posts)
@@ -25,6 +25,9 @@ My name is Justin Goncalves, and I am an aspiring cybersecurity professional wit
 [Read my professional statement](About_Me.md)
 
 ### Background
+I began my professional journey working in pharmacy and healthcare for several years, where I developed a deep appreciation for helping others. However, I was always drawn to the vast possibilities that technology offers. My curiosity led me into web development, as I found coding and programming fascinating. I loved the idea that in tech, there is an infinite amount of knowledge to learn and endless potential for what you can create.
+
+After spending time as a freelance web developer, my interests shifted toward cybersecurity. I became increasingly aware of fraud, hacking, and the growing threat of cybercrime. This sparked my desire to understand how these risks could be prevented and mitigated. Watching videos and taking online courses on cybersecurity opened up a new world for me, and I became obsessed with learning as much as I could about the field. Now, I am fully dedicated to becoming a cybersecurity professional, combining my love of learning with a mission to secure the digital landscape.
 
 #### Certifications
 - CompTIA Security+ (Expected 10/2024)
@@ -43,9 +46,9 @@ My name is Justin Goncalves, and I am an aspiring cybersecurity professional wit
 
 ---
 
-## Skills
+### Skills
 
-### Technical Skills
+#### Technical Skills
 - Incident Detection & Response
 - Vulnerability Management
 - Penetration Testing
@@ -65,7 +68,7 @@ My name is Justin Goncalves, and I am an aspiring cybersecurity professional wit
   - OWASP
   - CIS Controls
 
-### Professional Skills
+#### Professional Skills
 - Incident Response Leadership
 - Critical Thinking
 - Problem Solving
@@ -74,7 +77,7 @@ My name is Justin Goncalves, and I am an aspiring cybersecurity professional wit
 - Communication & Reporting
 - Documentation & Presentation
 
-### Tools / Languages
+#### Tools / Languages
 - Splunk
 - Qualys
 - Wireshark
