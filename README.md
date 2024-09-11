@@ -18,38 +18,60 @@ My name is Justin Goncalves, and I am an aspiring cybersecurity professional wit
    - Qualys Vulnerability Management Scanning (VMS)
 
 ## Skills
-| Technical Skills                          | Professional Skills                    | Tools / Languages                        |
-|:------------------------------------------|:---------------------------------------|:-----------------------------------------|
-| - Vulnerability Management                | - Critical Thinking                    | - Splunk                                 |
-| - Penetration Testing                     | - Problem Solving                      | - Qualys                                |
-| - Network Security                        | - Incident Response Leadership         | - Wireshark                              |
-| - Incident Detection & Response           | - Communication & Reporting            | - Metasploit                             |
-| - Python Scripting                        | - Risk Assessment & Mitigation         | - Linux                                  |
-| - Governance, Risk, and Compliance (GRC)  | - Ethical Decision Making              | - Chronicle                              |
-| - Threat Detection                        | - Documentation & Presentation         | - Python                                 |
-| - Risk Assessment                         |                                        | - Azure                                  |
-| - Cybersecurity Frameworks (NIST, OWASP)  |                                        | - Git                                    |
-| - Compliance (ISO/IEC 27001)              |                                        | - Suricata                               |
-| - Firewall Configuration                  |                                        | - TCPDump                                |
-|                                           |                                        | - SQL                                    |
-
+### Technical Skills
+- Incident Detection & Response
+- Vulnerability Management
+- Penetration Testing
+- Network Security
+- Threat Detection
+- Cryptology
+- Python Scripting
+- Risk Assessment
+- Governance, Risk, and Compliance (GRC)
+  - PCI DSS
+  - HIPAA
+  - GDPR
+  - ISO/IEC 27001
+- Cybersecurity Frameworks
+  - MITRE ATT&CK
+  - NIST
+  - OWASP
+  - CIS Controls
+- Firewall Configuration
+### Professional Skills
+- Incident Response Leadership
+- Critical Thinking
+- Problem Solving
+- Risk Assessment & Mitigation
+- Ethical Decision Making
+- Communication & Reporting
+- Documentation & Presentation
+### Tools / Languages
+- Splunk
+- Qualys
+- Wireshark
+- Metasploit
+- Linux
+- Chronicle
+- Python
+- Azure
+- Git
+- Suricata
+- TCPDump
+- SQL
 ---
-
-
      
 In addition to my certifications, I have completed several cybersecurity projects that have provided me with practical, hands-on experience in areas such as penetration testing, risk assessments, firewall configurations, and vulnerability management. I have also participated in programs with leading organizations such as PwC, Commonwealth Bank, MasterCard, and Datacom, where I applied these skills to real-world scenarios and further enhanced my expertise.
 
 
 ## Projects
 In this portfolio, you will find several projects that highlight my skills and practical experience. Here are two of my most recent projects:
-
 - **Commonwealth Bank Intro to Cybersecurity Virtual Experience Program (August 2024)**:
    - Served as a Cybersecurity Generalist on Commonwealth Bank's Fraud Detection and Response team.
    - Analyzed and visualized data using Splunk to identify patterns in fraud-related transactions.
    - Managed a simulated phishing and malware incident by following the Incident Response Lifecycle, including containment, eradication, recovery, and steps for future prevention.
    - Designed security awareness infographics promoting secure password management based on Australian Cybersecurity Centre best practices.
    - Gained hands-on experience in penetration testing by identifying and exploiting vulnerabilities in web applications, and then recommending remediation strategies.
-
 - **PwC Cybersecurity Virtual Experience Program (August 2024)**:
    - Worked as a Cybersecurity Analyst and Consultant on PwC Switzerland's Cybersecurity Team.
    - Conducted a risk assessment, identifying gaps in information security and providing tailored security recommendations.
