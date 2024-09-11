@@ -2,9 +2,22 @@
 
 Here, you'll find a showcase of my journey through the world of cybersecurity, including hands-on projects, professional experiences, certifications, and blog-style posts sharing my thoughts and learning experiences.
 
-## About Me
+## Table of Contents
+1. [About Me](#about-me)
+   - [Background](#background)
+     - [Certifications](#certifications)
+     - [Education](#education)
+2. [Skills](#skills)
+   - [Technical Skills](#technical-skills)
+   - [Professional Skills](#professional-skills)
+   - [Tools / Languages](#tools--languages)
+3. [Projects](#projects)
+4. [Resume](#resume)
+5. [Blog Posts](#blog-posts)
+6. [Contact Information](#contact-information)
 
-My name is Justin Goncalves, and I am an aspiring cybersecurity professional with a diverse background in business management, data analysis, IT support, and web development. My strong curiosity and passion for solving complex challenges have fueled my interest in penetration testing and ethical hacking. I am currently focused on expanding my expertise in vulnerability management, threat detection, and incident response as I work toward becoming a Tier 1 Cybersecurity Analyst. From there, I plan to gain the experience and practical knowledge needed to transition into a penetration tester role. For me, cybersecurity isn’t just a job—it’s a chance to protect the future, make a meaningful impact, and contribute to a safer, more resilient digital world.
+## About Me
+My name is Justin Goncalves, and I am an aspiring cybersecurity professional with a diverse background in business management, data analysis, IT support, and web development. My strong curiosity and passion for solving complex challenges have driven my interest in information security, particularly in penetration testing and ethical hacking. I am currently focused on expanding my expertise in vulnerability management, threat detection, and incident response as I work toward becoming a Tier 1 Cybersecurity Analyst. For me, cybersecurity isn’t just a job—it’s a chance to protect the future, make a meaningful impact, and contribute to a safer, more resilient digital world.
 
 [Read more about my journey](About_Me.md)
 
@@ -17,6 +30,14 @@ My name is Justin Goncalves, and I am an aspiring cybersecurity professional wit
    - Qualys Vulnerability Management, Detection, and Response (VMDR)
    - Qualys CyberSecurity Asset Management (CSAM)
    - Qualys Vulnerability Management Scanning (VMS)
+
+- **Education**:
+   - **University of Massachusetts Dartmouth, North Dartmouth, MA** (2019 - 2020, 2022-2023)  
+     Some education with a concentration in Finance and Financial Operations  
+     Completed Coursework Included: Business Statistics, Macro-Economics and Micro-Economics, Principles of Accounting, Operations Management, Financial Modeling, Investment Analysis, Financial Markets
+   - **Boston Latin School, Boston, MA** (2013 - 2019)  
+     High School Diploma  
+     Graduated from a prestigious exam school, which was also the #1 ranked high school in Massachusetts and 33rd in the nation at the time of my graduation.
 
 ---
 
@@ -69,8 +90,6 @@ My name is Justin Goncalves, and I am an aspiring cybersecurity professional wit
 
 ## Projects
 
-In addition to my certifications, I have completed several cybersecurity projects that have provided me with practical, hands-on experience in areas such as penetration testing, risk assessments, firewall configurations, and vulnerability management. I have also participated in programs with leading organizations such as PwC, Commonwealth Bank, MasterCard, and Datacom, where I applied these skills to real-world scenarios and further enhanced my expertise.
-
 In this portfolio, you will find several projects that highlight my skills and practical experience. Here are two of my most recent projects:
 
 - **Commonwealth Bank Intro to Cybersecurity Virtual Experience Program (August 2024)**:
@@ -91,15 +110,15 @@ In this portfolio, you will find several projects that highlight my skills and p
 
 ---
 
-## Blog Posts
-
-I regularly publish blog-style posts that dive into current cybersecurity trends, personal reflections on my learning process, and how I’ve applied theoretical knowledge to real-world problems. Stay tuned for insights on emerging cybersecurity threats, best practices, and more!
-
----
-
 ## Resume
 
 My resume is available for download [here](#) (You can link to your resume in PDF format once it’s uploaded).
+
+---
+
+## Blog Posts
+
+I regularly publish blog-style posts that dive into current cybersecurity trends, personal reflections on my learning process, and how I’ve applied theoretical knowledge to real-world problems. Stay tuned for insights on emerging cybersecurity threats, best practices, and more!
 
 ---
 
