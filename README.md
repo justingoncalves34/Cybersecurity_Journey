@@ -8,6 +8,7 @@ My name is Justin Goncalves, and I am an aspiring cybersecurity professional wit
 
 [Read more about my journey](About_Me.md)
 
+---
 
 ### My Background
 - **Certifications**:
@@ -16,6 +17,8 @@ My name is Justin Goncalves, and I am an aspiring cybersecurity professional wit
    - Qualys Vulnerability Management, Detection, and Response (VMDR)
    - Qualys CyberSecurity Asset Management (CSAM)
    - Qualys Vulnerability Management Scanning (VMS)
+
+--- 
 
 ## Skills
 
@@ -61,12 +64,13 @@ My name is Justin Goncalves, and I am an aspiring cybersecurity professional wit
 - Suricata
 - TCPDump
 - SQL
+  
 ---
-     
+   
+## Projects
+
 In addition to my certifications, I have completed several cybersecurity projects that have provided me with practical, hands-on experience in areas such as penetration testing, risk assessments, firewall configurations, and vulnerability management. I have also participated in programs with leading organizations such as PwC, Commonwealth Bank, MasterCard, and Datacom, where I applied these skills to real-world scenarios and further enhanced my expertise.
 
-
-## Projects
 In this portfolio, you will find several projects that highlight my skills and practical experience. Here are two of my most recent projects:
 - **Commonwealth Bank Intro to Cybersecurity Virtual Experience Program (August 2024)**:
    - Served as a Cybersecurity Generalist on Commonwealth Bank's Fraud Detection and Response team.
@@ -83,14 +87,17 @@ In this portfolio, you will find several projects that highlight my skills and p
      
 [More projects, labs, programs, and experiences](https://github.com/yourusername/your-projects-page) will be added to my project portfolio as I continue to develop my skills and complete new work.
 
+---
 
 ## Blog Posts
 I regularly publish blog-style posts that dive into current cybersecurity trends, personal reflections on my learning process, and how I’ve applied theoretical knowledge to real-world problems. Stay tuned for insights on emerging cybersecurity threats, best practices, and more!
 
+---
 
 ## Resume
 My resume is available for download [here](#) (You can link to your resume in PDF format once it’s uploaded).
 
+---
 
 ## Contact Information
 Feel free to reach out to me if you have any questions, opportunities, or just want to connect!
