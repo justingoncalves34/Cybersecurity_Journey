@@ -1,43 +1,45 @@
 # Welcome to My Cybersecurity Portfolio
-
 Here, you'll find a showcase of my journey through the world of cybersecurity, including hands-on projects, professional experiences, certifications, and blog-style posts sharing my thoughts and learning experiences.
 
+---
+
 ## Table of Contents
-1. [About Me](#about-me)
+- [About Me](#about-me)
    - [Background](#background)
      - [Certifications](#certifications)
      - [Education](#education)
-2. [Skills](#skills)
+- [Skills](#skills)
    - [Technical Skills](#technical-skills)
    - [Professional Skills](#professional-skills)
    - [Tools / Languages](#tools--languages)
-3. [Projects](#projects)
-4. [Resume](#resume)
-5. [Blog Posts](#blog-posts)
-6. [Contact Information](#contact-information)
+- [Projects](#projects)
+- [Resume](#resume)
+- [Blog Posts](#blog-posts)
+- [Contact Information](#contact-information)
+  
+---
 
 ## About Me
 My name is Justin Goncalves, and I am an aspiring cybersecurity professional with a diverse background in business management, data analysis, IT support, and web development. My strong curiosity and passion for solving complex challenges have driven my interest in information security, particularly in penetration testing and ethical hacking. I am currently focused on expanding my expertise in vulnerability management, threat detection, and incident response as I work toward becoming a Tier 1 Cybersecurity Analyst. For me, cybersecurity isn’t just a job—it’s a chance to protect the future, make a meaningful impact, and contribute to a safer, more resilient digital world.
 
-[Read more about my journey](About_Me.md)
+[Read my professional statement](About_Me.md)
 
----
+### Background
 
-### My Background
-- **Certifications**:
-   - CompTIA Security+ (Expected 10/2024)
-   - Google CyberSecurity Professional
-   - Qualys Vulnerability Management, Detection, and Response (VMDR)
-   - Qualys CyberSecurity Asset Management (CSAM)
-   - Qualys Vulnerability Management Scanning (VMS)
+#### Certifications
+- CompTIA Security+ (Expected 10/2024)
+- Google CyberSecurity Professional
+- Qualys Vulnerability Management, Detection, and Response (VMDR)
+- Qualys CyberSecurity Asset Management (CSAM)
+- Qualys Vulnerability Management Scanning (VMS)
 
-- **Education**:
-   - **University of Massachusetts Dartmouth, North Dartmouth, MA** (2019 - 2020, 2022-2023)  
-     Some education with a concentration in Finance and Financial Operations  
-     Completed Coursework Included: Business Statistics, Macro-Economics and Micro-Economics, Principles of Accounting, Operations Management, Financial Modeling, Investment Analysis, Financial Markets
-   - **Boston Latin School, Boston, MA** (2013 - 2019)  
-     High School Diploma  
-     Graduated from a prestigious exam school, which was also the #1 ranked high school in Massachusetts and 33rd in the nation at the time of my graduation.
+#### Education
+- **University of Massachusetts Dartmouth, North Dartmouth, MA** (2019 - 2020, 2022-2023)  
+  Some education with a concentration in Finance and Financial Operations  
+  Completed Coursework Included: Business Statistics, Macro-Economics and Micro-Economics, Principles of Accounting, Operations Management, Financial Modeling, Investment Analysis, Financial Markets
+- **Boston Latin School, Boston, MA** (2013 - 2019)  
+  High School Diploma  
+  Graduated from a prestigious exam school, which was also the #1 ranked high school in Massachusetts and 33rd in the nation at the time of my graduation.
 
 ---
 
