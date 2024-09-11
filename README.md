@@ -64,8 +64,8 @@ After spending time as a freelance web developer, my interests shifted toward cy
      - ISO/IEC 27001
    - Cybersecurity Frameworks
      - MITRE ATT&CK
-     - NIST
-     - OWASP
+     - NIST SP 800-53 + 800-61 + 800-171
+     - OWASP Top 10
      - CIS Controls
 
 ### Professional Skills
