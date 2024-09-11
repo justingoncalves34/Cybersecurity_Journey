@@ -30,14 +30,14 @@ I began my professional journey working in pharmacy and healthcare for several y
 
 After spending time as a freelance web developer, my interests shifted toward cybersecurity. I became increasingly aware of fraud, hacking, and the growing threat of cybercrime. This sparked my desire to understand how these risks could be prevented and mitigated. Watching videos and taking online courses on cybersecurity opened up a new world for me, and I became obsessed with learning as much as I could about the field. Now, I am fully dedicated to becoming a cybersecurity professional, combining my love of learning with a mission to secure the digital landscape.
 
-#### Certifications
+### Certifications
    - CompTIA Security+ (Expected 10/2024)
    - Google CyberSecurity Professional
    - Qualys Vulnerability Management, Detection, and Response (VMDR)
    - Qualys CyberSecurity Asset Management (CSAM)
    - Qualys Vulnerability Management Scanning (VMS)
 
-#### Education
+### Education
    - ***University of Massachusetts Dartmouth, North Dartmouth, MA*** (2019 - 2020, 2022-2023)
       - Some education with a concentration in Finance and Financial Operations
       - Completed Coursework Included: Business Statistics, Macro-Economics and Micro-Economics, Principles of Accounting, Operations Management, Financial Modeling, Investment Analysis, Financial Markets
@@ -48,7 +48,7 @@ After spending time as a freelance web developer, my interests shifted toward cy
 
 ### Skills
 
-#### Technical Skills
+### Technical Skills
    - Incident Detection & Response
    - Vulnerability Management
    - Penetration Testing
@@ -68,7 +68,7 @@ After spending time as a freelance web developer, my interests shifted toward cy
      - OWASP
      - CIS Controls
 
-#### Professional Skills
+### Professional Skills
    - Incident Response Leadership
    - Critical Thinking
    - Problem Solving
@@ -77,7 +77,7 @@ After spending time as a freelance web developer, my interests shifted toward cy
    - Communication & Reporting
    - Documentation & Presentation
 
-#### Tools / Languages
+### Tools / Languages
    - Splunk
    - Qualys
    - Wireshark
