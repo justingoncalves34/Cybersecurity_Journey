@@ -18,6 +18,7 @@ My name is Justin Goncalves, and I am an aspiring cybersecurity professional wit
    - Qualys Vulnerability Management Scanning (VMS)
 
 ## Skills
+
 ### Technical Skills
 - Incident Detection & Response
 - Vulnerability Management
@@ -37,7 +38,7 @@ My name is Justin Goncalves, and I am an aspiring cybersecurity professional wit
   - NIST
   - OWASP
   - CIS Controls
-- Firewall Configuration
+
 ### Professional Skills
 - Incident Response Leadership
 - Critical Thinking
@@ -46,6 +47,7 @@ My name is Justin Goncalves, and I am an aspiring cybersecurity professional wit
 - Ethical Decision Making
 - Communication & Reporting
 - Documentation & Presentation
+
 ### Tools / Languages
 - Splunk
 - Qualys
