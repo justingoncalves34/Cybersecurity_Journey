@@ -34,12 +34,12 @@ My name is Justin Goncalves, and I am an aspiring cybersecurity professional wit
 - Qualys Vulnerability Management Scanning (VMS)
 
 #### Education
-- **University of Massachusetts Dartmouth, North Dartmouth, MA** (2019 - 2020, 2022-2023)  
-  Some education with a concentration in Finance and Financial Operations  
-  Completed Coursework Included: Business Statistics, Macro-Economics and Micro-Economics, Principles of Accounting, Operations Management, Financial Modeling, Investment Analysis, Financial Markets
-- **Boston Latin School, Boston, MA** (2013 - 2019)  
-  High School Diploma  
-  Graduated from a prestigious exam school, which was also the #1 ranked high school in Massachusetts and 33rd in the nation at the time of my graduation.
+- **University of Massachusetts Dartmouth, North Dartmouth, MA** (2019 - 2020, 2022-2023)
+   - Some education with a concentration in Finance and Financial Operations
+   - Completed Coursework Included: Business Statistics, Macro-Economics and Micro-Economics, Principles of Accounting, Operations Management, Financial Modeling, Investment Analysis, Financial Markets
+- **Boston Latin School, Boston, MA** (2013 - 2019)
+   - High School Diploma
+   - Graduated from a prestigious exam school, which was also the #1 ranked high school in Massachusetts and 33rd in the nation at the time of my graduation.
 
 ---
 
