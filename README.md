@@ -18,11 +18,10 @@ My name is Justin Goncalves, and I am an aspiring cybersecurity professional wit
    - Qualys Vulnerability Management Scanning (VMS)
 
 ## Skills
-
 | Technical Skills                          | Professional Skills                    | Tools / Languages                        |
 |:------------------------------------------|:---------------------------------------|:-----------------------------------------|
 | - Vulnerability Management                | - Critical Thinking                    | - Splunk                                 |
-| - Penetration Testing                     | - Problem Solving                      | - Qualys                                 |
+| - Penetration Testing                     | - Problem Solving                      | - Qualys                                |
 | - Network Security                        | - Incident Response Leadership         | - Wireshark                              |
 | - Incident Detection & Response           | - Communication & Reporting            | - Metasploit                             |
 | - Python Scripting                        | - Risk Assessment & Mitigation         | - Linux                                  |
@@ -33,6 +32,9 @@ My name is Justin Goncalves, and I am an aspiring cybersecurity professional wit
 | - Compliance (ISO/IEC 27001)              |                                        | - Suricata                               |
 | - Firewall Configuration                  |                                        | - TCPDump                                |
 |                                           |                                        | - SQL                                    |
+
+---
+
 
      
 In addition to my certifications, I have completed several cybersecurity projects that have provided me with practical, hands-on experience in areas such as penetration testing, risk assessments, firewall configurations, and vulnerability management. I have also participated in programs with leading organizations such as PwC, Commonwealth Bank, MasterCard, and Datacom, where I applied these skills to real-world scenarios and further enhanced my expertise.
