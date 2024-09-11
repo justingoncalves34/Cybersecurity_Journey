@@ -1,4 +1,3 @@
-# Cybersecurity Journey
 
 Welcome to my cybersecurity portfolio! Here, you'll find a showcase of my journey through the world of cybersecurity, including hands-on projects, professional experiences, certifications, and blog-style posts sharing my thoughts and learning experiences.
 
