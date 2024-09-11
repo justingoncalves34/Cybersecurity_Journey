@@ -5,7 +5,7 @@ Here, you'll find a showcase of my journey through the world of cybersecurity, i
 ## About Me
 My name is Justin Goncalves, and I am an aspiring cybersecurity professional with a diverse background in business management, data analysis, IT support, and web development. My insatiable curiosity and passion for solving complex challenges have driven my interest in penetration testing and ethical hacking. I am currently expanding my expertise in vulnerability management, threat detection, and incident response to work as a Tier 1 Cybersecurity Analyst. From there, I aim to gain the experience, knowledge, and practical expertise necessary to eventually transition into a penetration tester role. I am driven by the belief that securing digital information and systems is more than just a job — it's an opportunity to protect the future, make a difference, and contribute to a safer, more resilient digital world.
 
-[Read more about my journey](about_me.md)
+[Read more about my journey](About_Me.md)
 
 
 ### My Background
