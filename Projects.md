@@ -72,7 +72,7 @@ Throughout this page, you’ll find detailed descriptions of the programs I’ve
    - Completed labs on network security, password cracking, and privilege escalation.
 
 ### HackThisSite Penetration Testing Challenges
-[View Full Report](Hackthissite.org_penetration_testing.md)
+[View Full Report](labs/hackthissite.md)
    - **Identified Critical Web Application Vulnerabilities**: Discovered and exploited vulnerabilities like weak input validation, insecure encryption, and improper authentication mechanisms across multiple levels.
    - **Applied Advanced Penetration Testing Techniques**: Utilized techniques such as command injection, SSI injection, cookie tampering, and directory traversal to gain unauthorized access to sensitive information.
    - **Analyzed and Reversed Weak Encryption Methods**: Successfully reverse-engineered encryption algorithms, showcasing the importance of using strong, industry-standard encryption methods.
