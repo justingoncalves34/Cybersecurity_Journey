@@ -111,7 +111,7 @@ In this portfolio, you will find several projects that highlight my skills and p
    - Wrote a comprehensive report detailing a network segmentation strategy with enhanced access control and secure firewall configuration for the client.
    - Delivered presentations on risk management strategies and network security recommendations.
      
-[More projects, labs, programs, and experiences](https://github.com/justingoncalves34/Cybersecurity_Journey/blob/f7b479bb9b2fcef4332099906a71709cd71a66a0/Projects.md) will be added to my project portfolio as I continue to develop my skills and complete new work.
+[More projects, labs, programs, and experiences](https://github.com/justingoncalves34/Cybersecurity_Journey/Projects.md) will be added to my project portfolio as I continue to develop my skills and complete new work.
 
 ---
 
