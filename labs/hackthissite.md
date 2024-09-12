@@ -1,10 +1,11 @@
 ---
-
-# ***"HackThisSite.org"*** Penetration Testing Challenges
-
+title: "HackThisSite.org Penetration Testing Challenges"
+layout: "post"  # Use your appropriate layout
 ---
 
 [Back to Projects](Projects.md)
+
+# ***"HackThisSite.org"*** Penetration Testing Challenges
 
 ---
 
@@ -139,4 +140,3 @@ This project provided invaluable hands-on experience with various penetration te
 
 ---
 [Back to Projects](Projects.md)
-
