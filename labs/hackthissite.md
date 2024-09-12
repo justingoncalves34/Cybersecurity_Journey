@@ -1,9 +1,12 @@
 ---
-[Back to Projects](Projects.md)
+
+# ***"HackThisSite.org"*** Penetration Testing Challenges
 
 ---
 
-# ***"HackThisSite.org"*** Penetration Testing Challenges
+[Back to Projects](Projects.md)
+
+---
 
 ## Project Overview
 
