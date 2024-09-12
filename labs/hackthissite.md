@@ -1,11 +1,8 @@
----
-title: "HackThisSite.org Penetration Testing Challenges"
-layout: "post"  # Use your appropriate layout
+# ***"HackThisSite.org"*** Penetration Testing Challenges
+
 ---
 
 [Back to Projects](Projects.md)
-
-# ***"HackThisSite.org"*** Penetration Testing Challenges
 
 ---
 
