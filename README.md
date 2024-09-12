@@ -31,11 +31,28 @@ I began my professional journey working in pharmacy and healthcare for several y
 After spending time as a freelance web developer, my interests shifted toward cybersecurity. I became increasingly aware of fraud, hacking, and the growing threat of cybercrime. This sparked my desire to understand how these risks could be prevented and mitigated. Watching videos and taking online courses on cybersecurity opened up a new world for me, and I became obsessed with learning as much as I could about the field. Now, I am fully dedicated to becoming a cybersecurity professional, combining my love of learning with a mission to secure the digital landscape.
 
 ### Certifications
-   - CompTIA Security+ (Expected 10/2024)
-   - Google CyberSecurity Professional
-   - Qualys Vulnerability Management, Detection, and Response (VMDR)
-   - Qualys CyberSecurity Asset Management (CSAM)
-   - Qualys Vulnerability Management Scanning (VMS)
+
+- CompTIA Security+ (Expected 10/2024)
+- Google CyberSecurity Professional
+- Qualys Vulnerability Management, Detection, and Response (VMDR)
+- Qualys CyberSecurity Asset Management (CSAM)
+- Qualys Vulnerability Management Scanning (VMS)
+- United States Department of Homeland Security, National Incident Management System (NIMS)
+   - **Incident Response & Command System Expertise**
+      - IS-100.C: Introduction to Incident Command System (ICS-100)
+      - IS-200.C: Basic Incident Command System for Initial Response (ICS-200)
+      - IS-700.B: National Incident Management System (NIMS)
+      - IS-800.D: National Response Framework, An Introduction
+      - IS-2200: Basic Emergency Operations Center Functions
+   - **Critical Infrastructure Security & Risk Management**
+      - IS-860.C: National Infrastructure Protection Plan, An Introduction
+      - IS-906: Workplace Security Awareness
+      - IS-915: Protecting Critical Infrastructure Against Insider Threats
+      - IS-916: Critical Infrastructure Security: Theft and Diversion
+   - **Disaster Recovery & Continuity Planning**
+      - IS-230.E: Fundamentals of Emergency Management
+      - IS-2500: National Prevention Framework
+      - IS-1300.A: Introduction to Continuity
 
 ### Education
    - ***University of Massachusetts Dartmouth, North Dartmouth, MA*** (2019 - 2020, 2022-2023)
@@ -44,7 +61,6 @@ After spending time as a freelance web developer, my interests shifted toward cy
    - ***Boston Latin School, Boston, MA*** (2013 - 2019)
       - High School Diploma
       - Graduated from a prestigious exam school, which was also the #1 ranked high school in Massachusetts and 33rd in the nation at the time of my graduation.
-
 
 ### Skills
 
