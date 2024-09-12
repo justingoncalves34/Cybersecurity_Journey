@@ -10,7 +10,7 @@ Throughout this page, you’ll find detailed descriptions of the programs I’ve
 - [Labs](#labs)
 
 
-[Back to Main Repository](https://github.com/Cybersecurity_Journey))
+[Back to Main Repository](readme.md)
 
 ---
 
