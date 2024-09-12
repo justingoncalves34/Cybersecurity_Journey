@@ -15,20 +15,21 @@ Throughout this page, you’ll find detailed descriptions of the programs I’ve
 ---
 
 ## Programs, Internships, and Virtual Experience
-- **Commonwealth Bank Intro to Cybersecurity Virtual Experience Program (August 2024)**: [View Report](https://github.com/justingoncalves34/Cybersecurity_Journey/blob/f7b479bb9b2fcef4332099906a71709cd71a66a0/Commonwealth%20Bank%20Cybersecurity%20Program.pdf)
+-<img src="[https://github.com/yourusername/your-repo-name/blob/main/images/company_logo.svg](https://github.com/justingoncalves34/Cybersecurity_Journey/blob/658eb44ec2e2290117f7fc8b9a497ff2ee243e76/images/Commonwealth%20Bank%20Logo.svg)" alt="Company Logo" width="200px" />
+**Commonwealth Bank Intro to Cybersecurity Virtual Experience Program (August 2024)**: [View Report](https://github.com/justingoncalves34/Cybersecurity_Journey/blob/f7b479bb9b2fcef4332099906a71709cd71a66a0/Commonwealth%20Bank%20Cybersecurity%20Program.pdf)
    - Served as a Cybersecurity Generalist on Commonwealth Bank's Fraud Detection and Response team.
    - Analyzed and visualized data using Splunk to identify patterns in fraud-related transactions.
    - Managed a simulated phishing and malware incident by following the Incident Response Lifecycle, including containment, eradication, recovery, and steps for future prevention.
    - Designed security awareness infographics promoting secure password management based on Australian Cybersecurity Centre best practices.
    - Gained hands-on experience in penetration testing by identifying and exploiting vulnerabilities in web applications, and then recommending remediation strategies.
 
-- **PwC Cybersecurity Virtual Experience Program (August 2024)**:
+- **PwC Cybersecurity Virtual Experience Program (August 2024)**: [View Report](https://github.com/justingoncalves34/Cybersecurity_Journey/blob/51a5e5c48b70755386b1e122436a90c1f9dbf3f0/PwC%20Cybersecurity%20Program.pdf)
    - Worked as a Cybersecurity Analyst and Consultant on PwC Switzerland's Cybersecurity Team.
    - Conducted a risk assessment, identifying gaps in information security and providing tailored security recommendations.
    - Developed an integrated defense strategy and provided tailored recommendations on layered security principles for a client.
    - Wrote a comprehensive report detailing a network segmentation strategy with enhanced access control and secure firewall configuration for the client.
 
-- **Datacom Cybersecurity Virtual Experience Program (August 2024)**
+- **Datacom Cybersecurity Virtual Experience Program (August 2024)**: [View Report](https://github.com/justingoncalves34/Cybersecurity_Journey/blob/51a5e5c48b70755386b1e122436a90c1f9dbf3f0/Datacom%20Cybersecurity%20Program.pdf)
    - Investigated an Advanced Persistent Threat (APT34) attack, conducting in-depth research on their tactics, techniques, and procedures (TTPs) using Open-Source Intelligence (OSINT) tools.
    - Produced a comprehensive cybersecurity investigation report, documenting findings and providing key recommendations to improve the client’s cybersecurity posture.
    - Developed a risk matrix and assessed the client’s existing security controls, identifying vulnerabilities and proposing mitigation strategies for critical assets like customer data and financial information.
