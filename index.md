@@ -10,9 +10,9 @@ Here, you'll find a showcase of my journey through the world of cybersecurity, i
    - [🎓 Certifications](#-certifications)
    - [🎓 Education](#-education)
    - [💡 Skills](#-skills)
-     - [🛡️ Technical Skills](#-technical_skills)
-     - [💼 Professional Skills](#-professional_skills)
-     - [🛠️ Tools / Languages](#-tools--languages)
+     - 🛡️ Technical Skills
+     - 💼 Professional Skills
+     - 🛠️ Tools / Languages
 - [📂 Projects](#-projects)
 - [📄 Resume](#-resume)
 - [✍🏽 Blog Posts](#-blog-posts)
@@ -72,7 +72,7 @@ After gaining experience as a freelance web developer, I became interested in cy
 
 ### 💡 Skills
 
-#### 🛡️ Technical_Skills
+#### 🛡️ Technical Skills
    - Incident Detection & Response
    - Vulnerability Management
    - Penetration Testing
@@ -100,7 +100,7 @@ After gaining experience as a freelance web developer, I became interested in cy
      - OWASP Top 10
      - CIS Controls
 
-#### 💼 Professional_Skills
+#### 💼 Professional Skills
    - Incident Response Leadership
    - Critical Thinking
    - Problem Solving
