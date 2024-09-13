@@ -71,7 +71,7 @@ As you explore this page, you’ll find the highlights of programs I’ve comple
 ## Projects/Activities 
 
 ### Cybersecurity Incident Response Project (NIST CSF)  
-[View Full Report](activities/CyberSecurity_Incident_Response_Project.pdf)  
+[View Full Report](activities/CyberSecurity_Incident_Response_Project_(NIST_CSF).pdf)  
 - Developed a response plan for a Distributed Denial of Service (DDoS) attack based on the NIST Cybersecurity Framework.  
 - Strengthened network defenses by updating firewall settings, monitoring systems, and applying network segmentation.  
 - Implemented an Intrusion Detection System (IDS) for real-time monitoring and analysis of threats.  
@@ -96,33 +96,33 @@ As you explore this page, you’ll find the highlights of programs I’ve comple
 - Compiled a detailed report outlining the findings and proposed remediation strategies.  
 - Collaborated with the IT team to implement security improvements.
 
-### Network Hardening Analysis Project  
-[View Full Report](activities/Network_Hardening_Analysis_Project.pdf)  
+### Network Hardening and Security Analysis  
+[View Full Report](activities/Network_Hardening_Assessment.pdf)  
 - Evaluated an organization’s existing network security and suggested improvements to harden systems.  
 - Proposed the use of VPNs, encryption, and access control mechanisms to secure data.  
 - Documented recommendations and guided the team through implementation.
 
 ### Botium Toys Security Audit Scenario  
-[View Full Report](activities/Botium_Toys_Security_Audit_Scenario.pdf)  
+[View Full Report](activities/Botium_Toys_Security_Audit_Senario.pdf)  
 - Conducted a security audit for Botium Toys, identifying vulnerabilities in their network infrastructure and assessing the organization's risk.  
 - Provided comprehensive recommendations for improving security controls and reducing cyber risks, including enhanced firewall policies and encryption protocols.  
 - Proposed an action plan to mitigate identified vulnerabilities, including the use of intrusion detection systems (IDS) and continuous monitoring.  
 - Presented findings to company executives, outlining both short-term fixes and long-term strategies for bolstering cybersecurity resilience.
 
-### OS Hardening Techniques  
+### Operating System Hardening Techniques  
 [View Full Report](activities/OS_Hardening_Techniques_Project.pdf)  
 - Implemented OS hardening techniques on Linux and Windows systems to enhance security posture.  
 - Secured configurations, applied encryption, and disabled unnecessary services.  
 - Developed a comprehensive guide on hardening techniques for team use.  
 - Conducted post-hardening testing to ensure system integrity and security.
 
-### InfoSec Data Handling  
+### InfoSec Data Handling Security Assessment
 [View Full Report](activities/InfoSec_Data_Handling_Activity.pdf)  
-- Analyzed data handling procedures, focusing on confidentiality, integrity, and availability (CIA).  
-- Suggested enhancements for data storage and encryption processes to improve security.  
-- Evaluated and recommended secure data transmission protocols.
+- Analyzed data-handling procedures for confidentiality, integrity, and availability.
+- Recommended security controls and access authorization protocols based on NIST SP 800-53 guidelines.
+- Proposed improvements for secure data storage and encryption to prevent unauthorized access.
 
-### Linux File Permission Management  
+### Linux File Permission and Access Control Audit  
 [View Full Report](activities/Linux_File_Permission_Management.pdf)  
 - Managed and configured file permissions in a Linux environment to ensure proper access control.  
 - Restricted access to sensitive files by applying appropriate user and group permissions.  
