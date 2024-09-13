@@ -12,7 +12,7 @@ Here, you'll find a showcase of my journey through the world of cybersecurity, i
    - [💡 Skills](#-skills)
      - 🛡️ [Technical Skills](#-technical-skills)
      - 💼 [Professional Skills](#-professional-skills)
-     - 🛠️ [Tools / Languages](#-tools/languages)
+     - 🛠️ [Tools/Languages](#-tools/languages)
 - [📂 Projects](#-projects)
 - [📄 Resume](#-resume)
 - [✍🏽 Blog Posts](#-blog-posts)
