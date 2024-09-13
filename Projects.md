@@ -4,7 +4,7 @@ This page showcases my dedication to the field of cybersecurity, featuring a div
 As you explore this page, you'll find detailed descriptions of the programs I've completed, the projects I've undertaken, and the labs where I’ve sharpened my skills. Whenever possible, I’ve included links to reports, datasets, presentations, and other relevant resources to provide you with deeper insights into my work and deliverables. Thank you for visiting, and I hope you find inspiration in my journey!
 
 ---
-[Back to Main Repository](readme.md)
+[Back to Main Repository](index.md)
 
 ---
 
