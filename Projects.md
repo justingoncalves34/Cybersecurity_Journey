@@ -20,12 +20,12 @@ As you explore this page, you’ll find the highlights of programs I’ve comple
 - [Projects/Activities](#projectsactivities)
   - [Cybersecurity Incident Response Project (NIST CSF)](#cybersecurity-incident-response-project-nist-csf)
   - [Cybersecurity Network Attack Analysis Project](#cybersecurity-network-attack-analysis-project)
+  - [Cybersecurity Incident Report Project](#cybersecurity-incident-report-project)
   - [Vulnerability Assessment Report](#vulnerability-assessment-report)
   - [Network Hardening Analysis Project](#network-hardening-analysis-project)
   - [Botium Toys Security Audit Scenario](#botium-toys-security-audit-scenario)
   - [OS Hardening Techniques](#os-hardening-techniques)
   - [InfoSec Data Handling](#infosec-data-handling)
-  - [Cybersecurity Incident Report Project](#cybersecurity-incident-report-project)
   - [Linux File Permission Management](#linux-file-permission-management)
 - [Labs](#labs)
   - [TryHackMe](#tryhackme)
@@ -70,62 +70,63 @@ As you explore this page, you’ll find the highlights of programs I’ve comple
 
 ## Projects/Activities 
 
-### Cybersecurity Incident Response Project (NIST CSF)
-- Structured a response plan for a Distributed Denial of Service (DDoS) attack using the NIST Cybersecurity Framework.
-- Enhanced network protection by updating firewall configurations and implementing an Intrusion Detection System (IDS).
-- Coordinated incident response teams to contain the attack and prevent further damage to the network.
-- Provided recommendations for continuous monitoring and post-incident improvements to strengthen defenses.
-- [View Full Report](activities/CyberSecurity_Incident_Response_Project.pdf)
+### Cybersecurity Incident Response Project (NIST CSF)  
+[View Full Report](activities/CyberSecurity_Incident_Response_Project.pdf)  
+- Developed a response plan for a Distributed Denial of Service (DDoS) attack based on the NIST Cybersecurity Framework.  
+- Strengthened network defenses by updating firewall settings, monitoring systems, and applying network segmentation.  
+- Implemented an Intrusion Detection System (IDS) for real-time monitoring and analysis of threats.  
+- Conducted a full post-incident analysis and recommended improvements for preventing future attacks.
 
-### Cybersecurity Network Attack Analysis Project
-- Investigated a network-based cyberattack, identifying attack vectors and methods used by malicious actors.
-- Enhanced network defenses by recommending improvements to firewalls and intrusion prevention systems.
-- Compiled a detailed report on the incident, including an analysis of network vulnerabilities.
-- Provided steps to prevent future network attacks, including proactive defense mechanisms.
-- [View Full Report](activities/Cybersecurity_Network_Attack_Analysis_Project.pdf)
+### Cybersecurity Network Attack Analysis Project  
+[View Full Report](activities/Cybersecurity_Network_Attack_Analysis_Project.pdf)  
+- Investigated a network-based cyberattack, identifying the attack vector, methods used, and vulnerabilities exploited.  
+- Recommended implementing firewalls, intrusion prevention systems (IPS), and advanced threat detection mechanisms.  
+- Documented the full attack lifecycle, from initial penetration to data exfiltration, and provided recommendations for enhancing network security.  
+- Collaborated with security teams to implement and monitor the proposed solutions, ensuring ongoing protection against similar threats.
 
-### Vulnerability Assessment Report
-- Conducted a comprehensive assessment of an organization's network, identifying potential vulnerabilities across critical systems.
-- Recommended mitigation strategies to reduce attack surface and secure critical assets.
-- Drafted a detailed report outlining prioritized security measures and remediation strategies.
-- [View Full Report](activities/Vulnerability_Assessment_Report.pdf)
+### Cybersecurity Incident Report Project  
+[View Full Report](activities/Cybersecurity_Incident_Report_Project.pdf)  
+- Conducted a detailed analysis of a cybersecurity incident, creating a formal incident report.  
+- Identified security gaps and recommended preventative measures to avoid future incidents.  
+- Presented findings to stakeholders with a focus on actionable recommendations.
 
-### Network Hardening Analysis Project
-- Conducted a thorough evaluation of an organization’s network security and identified key vulnerabilities.
-- Recommended network hardening measures, including VPN configurations, improved access control, and encryption.
-- Provided strategic advice to enhance the organization's overall security posture and protect sensitive information.
-- [View Full Report](activities/Network_Hardening_Analysis_Project.pdf)
+### Vulnerability Assessment Report  
+[View Full Report](activities/Vulnerability_Assessment_Report.pdf)  
+- Conducted a vulnerability assessment on an organization's network to identify potential security risks.  
+- Compiled a detailed report outlining the findings and proposed remediation strategies.  
+- Collaborated with the IT team to implement security improvements.
 
-### Botium Toys Security Audit Scenario
-- Performed a security audit for Botium Toys, identifying vulnerabilities across their network infrastructure.
-- Provided actionable recommendations to strengthen security controls and mitigate potential cyber threats.
-- Created a risk matrix to assess the likelihood and impact of identified risks.
-- Drafted a comprehensive audit report, outlining the organization's current security posture and suggested improvements.
-- [View Full Report](activities/Botium_Toys_Security_Audit_Scenario.pdf)
+### Network Hardening Analysis Project  
+[View Full Report](activities/Network_Hardening_Analysis_Project.pdf)  
+- Evaluated an organization’s existing network security and suggested improvements to harden systems.  
+- Proposed the use of VPNs, encryption, and access control mechanisms to secure data.  
+- Documented recommendations and guided the team through implementation.
 
-### OS Hardening Techniques
-- Implemented OS hardening techniques to secure both Linux and Windows systems against unauthorized access.
-- Configured encryption, adjusted file permissions, and disabled unnecessary services to minimize attack vectors.
-- Audited system configurations to ensure compliance with security standards and best practices.
-- [View Full Report](activities/OS_Hardening_Techniques_Project.pdf)
+### Botium Toys Security Audit Scenario  
+[View Full Report](activities/Botium_Toys_Security_Audit_Scenario.pdf)  
+- Conducted a security audit for Botium Toys, identifying vulnerabilities in their network infrastructure and assessing the organization's risk.  
+- Provided comprehensive recommendations for improving security controls and reducing cyber risks, including enhanced firewall policies and encryption protocols.  
+- Proposed an action plan to mitigate identified vulnerabilities, including the use of intrusion detection systems (IDS) and continuous monitoring.  
+- Presented findings to company executives, outlining both short-term fixes and long-term strategies for bolstering cybersecurity resilience.
 
-### InfoSec Data Handling
-- Evaluated data-handling procedures for compliance with CIA (Confidentiality, Integrity, Availability) best practices.
-- Recommended encryption standards and secure data storage methods for safeguarding sensitive information.
-- Developed policies to enhance data handling security and minimize risks of data breaches.
-- [View Full Report](activities/InfoSec_Data_Handling_Activity.pdf)
+### OS Hardening Techniques  
+[View Full Report](activities/OS_Hardening_Techniques_Project.pdf)  
+- Implemented OS hardening techniques on Linux and Windows systems to enhance security posture.  
+- Secured configurations, applied encryption, and disabled unnecessary services.  
+- Developed a comprehensive guide on hardening techniques for team use.  
+- Conducted post-hardening testing to ensure system integrity and security.
 
-### Cybersecurity Incident Report Project
-- Analyzed a simulated cybersecurity incident, generating a formal incident report based on industry best practices.
-- Identified root causes of the breach and recommended mitigation strategies to prevent future occurrences.
-- Followed standard incident response procedures, ensuring thorough analysis and post-incident recovery.
-- [View Full Report](activities/Cybersecurity_Incident_Report_Project.pdf)
+### InfoSec Data Handling  
+[View Full Report](activities/InfoSec_Data_Handling_Activity.pdf)  
+- Analyzed data handling procedures, focusing on confidentiality, integrity, and availability (CIA).  
+- Suggested enhancements for data storage and encryption processes to improve security.  
+- Evaluated and recommended secure data transmission protocols.
 
-### Linux File Permission Management
-- Managed file permissions in a Linux environment to enforce access control and protect sensitive files.
-- Configured permissions to ensure least privilege access, restricting unauthorized users from critical data.
-- Demonstrated proficiency in managing Linux file systems and applying secure permission settings.
-- [View Full Report](activities/Linux_File_Permission_Management.pdf)
+### Linux File Permission Management  
+[View Full Report](activities/Linux_File_Permission_Management.pdf)  
+- Managed and configured file permissions in a Linux environment to ensure proper access control.  
+- Restricted access to sensitive files by applying appropriate user and group permissions.  
+- Developed best practices for permission management to enhance system security.
 
 ---
 
