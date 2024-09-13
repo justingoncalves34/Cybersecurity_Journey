@@ -5,18 +5,18 @@ Here, you'll find a showcase of my journey through the world of cybersecurity, i
 ---
 
 ## Table of Contents
-- [👨🏽‍💻 About Me](#-about-me)
-   - [📖 Background](#-background)
-   - [🎓 Certifications](#-certifications)
-   - [🎓 Education](#-education)
-   - [💡 Skills](#-skills)
-     - [🛡️ Technical Skills](#-technical-skills)
-     - [💼 Professional Skills](#-professional-skills)
-     - [🛠️ Tools / Languages](#-tools--languages)
-- [📂 Projects](#-projects)
-- [📄 Resume](#-resume)
-- [✍🏽 Blog Posts](#-blog-posts)
-- [💬 Contact Information](#-contact-information)
+- [👨🏽‍💻 About Me](#about-me)
+   - [📖 Background](#background)
+   - [🎓 Certifications](#certifications)
+   - [🎓 Education](#education)
+   - [💡 Skills](#skills)
+     - [🛡️ Technical Skills](#technical_skills)
+     - [💼 Professional Skills](#professional_skills)
+     - [🛠️ Tools / Languages](#tools--languages)
+- [📂 Projects](#projects)
+- [📄 Resume](#resume)
+- [✍🏽 Blog Posts](#blog-posts)
+- [💬 Contact Information](#contact-information)
 
 ---
 
@@ -72,7 +72,7 @@ After gaining experience as a freelance web developer, I became interested in cy
 
 ### 💡 Skills
 
-#### 🛡️ Technical Skills
+#### 🛡️ Technical_Skills
    - Incident Detection & Response
    - Vulnerability Management
    - Penetration Testing
@@ -100,7 +100,7 @@ After gaining experience as a freelance web developer, I became interested in cy
      - OWASP Top 10
      - CIS Controls
 
-#### 💼 Professional Skills
+#### 💼 Professional_Skills
    - Incident Response Leadership
    - Critical Thinking
    - Problem Solving
@@ -110,10 +110,10 @@ After gaining experience as a freelance web developer, I became interested in cy
    - Documentation & Presentation
 
 #### 🛠️ Tools / Languages
-   - BurpSuite
    - Splunk
    - Qualys
    - Wireshark
+   - BuepSuite
    - Metasploit
    - Linux
    - Chronicle
