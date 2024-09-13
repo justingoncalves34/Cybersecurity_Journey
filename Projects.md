@@ -1,4 +1,3 @@
----
 # Projects, Labs, and Programs
 
 This page represents my passion and dedication to cybersecurity, showcasing a collection of projects, hands-on labs, and professional programs that have helped shape my journey. Each project has provided me with the opportunity to dive deeper into cybersecurity principles, gain practical, real-world experience, and sharpen my technical skills. From formal training initiatives to independent explorations, this portfolio reflects my growth as I pursue my goal of becoming a skilled cybersecurity professional.
