@@ -109,7 +109,7 @@ As I honed my skills as a freelance web developer, my focus gradually shifted to
    - Communication & Reporting
    - Documentation & Presentation
 
-#### 🛠️ Tools / Languages
+#### 🛠️ Tools/Languages
    - Splunk
    - Qualys
    - Wireshark
