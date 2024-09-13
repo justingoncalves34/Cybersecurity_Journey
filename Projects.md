@@ -133,7 +133,8 @@ As you explore this page, you’ll find the highlights of programs I’ve comple
 ## Labs
 
 ### TryHackMe
-   - Completed labs on network security, password cracking, and privilege escalation.
+   - **Jr. Penetration Tester Certificate Course** (currently in progress). Upon completion, I will upload my certificate, along with detailed reports and my personal reflection!
+     - This course offers hands-on labs covering essential penetration testing techniques, including web application vulnerabilities like SQL Injection, XSS, and IDOR, as well as network security, privilege escalation, and exploitation using tools like Metasploit and Burp Suite.
 
 ### HackThisSite Penetration Testing Challenges
 [View Full Report](labs/hackthissite.md)
