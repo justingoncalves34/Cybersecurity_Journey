@@ -1,9 +1,9 @@
 ---
 [Back to Main Repository](index.md)
-
 ---
 
 # Projects, Labs, and Programs
+
 This page showcases my dedication to the field of cybersecurity, featuring a diverse collection of projects, hands-on labs, and professional training programs. Each entry is designed to deepen my understanding of cybersecurity principles, gain invaluable real-world experience, and enhance my technical skills. From formal training initiatives to practical labs and independent projects, this portfolio illustrates my journey as I strive to become a skilled cybersecurity professional.
 
 As you explore this page, you'll find detailed descriptions of the programs I've completed, the projects I've undertaken, and the labs where I’ve sharpened my skills. Whenever possible, I’ve included links to reports, datasets, presentations, and other relevant resources to provide you with deeper insights into my work and deliverables. Thank you for visiting, and I hope you find inspiration in my journey!
@@ -16,9 +16,16 @@ As you explore this page, you'll find detailed descriptions of the programs I've
   - [PwC Cybersecurity Virtual Experience Program](#pwc-cybersecurity-virtual-experience-program-august-2024)
   - [Datacom Cybersecurity Virtual Experience Program](#datacom-cybersecurity-virtual-experience-program-august-2024)
   - [Mastercard Cybersecurity Virtual Experience Program](#mastercard-cybersecurity-virtual-experience-program-august-2024)
-- [Projects](#projects)
-  - [Internal Network Security Audit](#internal-network-security-audit)
-  - [SIEM Deployment and Configuration](#siem-deployment-and-configuration)
+- [Projects/Activities](#projectsactivities)
+  - [Vulnerability Assessment Report](#vulnerability-assessment-report)
+  - [InfoSec Data Handling](#infosec-data-handling)
+  - [OS Hardening Techniques](#os-hardening-techniques)
+  - [Linux File Permission Management](#linux-file-permission-management)
+  - [Cybersecurity Incident Response Project (NIST CSF)](#cybersecurity-incident-response-project-nist-csf)
+  - [Cybersecurity Incident Report Project](#cybersecurity-incident-report-project)
+  - [Cybersecurity Network Attack Analysis Project](#cybersecurity-network-attack-analysis-project)
+  - [Network Hardening Analysis Project](#network-hardening-analysis-project)
+  - [Botium Toys Security Audit Scenario](#botium-toys-security-audit-scenario)
 - [Labs](#labs)
   - [TryHackMe](#tryhackme)
   - [HackThisSite Penetration Testing Challenges](#hackthissite-penetration-testing-challenges)
@@ -26,6 +33,7 @@ As you explore this page, you'll find detailed descriptions of the programs I've
 ---
 
 ## Programs, Internships, and Virtual Experience
+
 ### Commonwealth Bank Intro to Cybersecurity Virtual Experience Program (August 2024)
 [View Full Report](programs/Commonwealth_Bank_Cybersecurity_Program.pdf)
    - Served as a Cybersecurity Generalist on Commonwealth Bank's Fraud Detection and Response team.
@@ -58,14 +66,51 @@ As you explore this page, you'll find detailed descriptions of the programs I've
 
 ---
 
-## Projects
-### Internal Network Security Audit
-   - Led a comprehensive internal security audit for a client, identifying network vulnerabilities and recommending mitigation strategies.
-   - Documented security risks and presented findings to the IT team for remediation.
+## Projects/Activities 
 
-### SIEM Deployment and Configuration
-   - Deployed and configured a Security Information and Event Management (SIEM) tool to monitor and analyze network traffic.
-   - Created custom dashboards and alerts for real-time threat detection.
+### Vulnerability Assessment Report
+- Conducted a vulnerability assessment on an organization's network, identifying and mitigating security risks.
+- Created a detailed report outlining vulnerabilities and proposed remediation strategies.
+- [View Full Report](activities/Vulnerability_Assessment_Report.pdf)
+
+### InfoSec Data Handling
+- Analyzed data-handling procedures for confidentiality, integrity, and availability.
+- Proposed improvements for secure data storage and encryption.
+- [View Full Report](activities/InfoSec_Data_Handling_Activity.pdf)
+
+### OS Hardening Techniques
+- Applied OS hardening techniques to secure Linux and Windows systems against unauthorized access.
+- Configured encryption, permissions, and disabled unnecessary services to minimize attack vectors.
+- [View Full Report](activities/OS_Hardening_Techniques_Project.pdf)
+
+### Linux File Permission Management
+- Managed and modified file permissions in a Linux environment to ensure proper access control and protect sensitive files from unauthorized access.
+- [View Full Report](activities/Linux_File_Permission_Management.pdf)
+
+### Cybersecurity Incident Response Project (NIST CSF)
+- Structured a response plan for a Distributed Denial of Service (DDoS) attack using the NIST Cybersecurity Framework.
+- Enhanced network protection by updating firewall settings, monitoring systems, and implementing an Intrusion Detection System.
+- [View Full Report](activities/CyberSecurity_Incident_Response_Project.pdf)
+
+### Cybersecurity Incident Report Project
+- Analyzed a simulated cybersecurity incident and generated a formal incident report following industry best practices.
+- Provided recommendations to prevent similar incidents in the future.
+- [View Full Report](activities/Cybersecurity_Incident_Report_Project.pdf)
+
+### Cybersecurity Network Attack Analysis Project
+- Analyzed a network-based cyberattack, identifying its vector and method of execution.
+- Implemented enhanced network defenses such as firewalls and intrusion prevention systems.
+- [View Full Report](activities/Cybersecurity_Network_Attack_Analysis_Project.pdf)
+
+### Network Hardening Analysis Project
+- Reviewed and evaluated an organization's existing network security and proposed hardening measures.
+- Recommended improvements such as VPNs, access control, and encryption for sensitive data.
+- [View Full Report](activities/Network_Hardening_Analysis_Project.pdf)
+
+### Botium Toys Security Audit Scenario
+- Performed a security audit for Botium Toys, identifying vulnerabilities and assessing the organization's risk.
+- Provided recommendations to enhance security controls and prevent future cyber threats.
+- [View Full Report](activities/Botium_Toys_Security_Audit_Scenario.pdf)
 
 ---
 
