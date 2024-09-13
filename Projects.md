@@ -1,12 +1,13 @@
 ---
 [Back to Main Repository](index.md)
+
 ---
 
 # Projects, Labs, and Programs
 
-This page showcases my dedication to the field of cybersecurity, featuring a diverse collection of projects, hands-on labs, and professional training programs. Each entry is designed to deepen my understanding of cybersecurity principles, gain invaluable real-world experience, and enhance my technical skills. From formal training initiatives to practical labs and independent projects, this portfolio illustrates my journey as I strive to become a skilled cybersecurity professional.
+This page represents my passion and dedication to cybersecurity, showcasing a collection of projects, hands-on labs, and professional programs that have helped shape my journey. Each project has provided me with the opportunity to dive deeper into cybersecurity principles, gain practical, real-world experience, and sharpen my technical skills. From formal training initiatives to independent explorations, this portfolio reflects my growth as I pursue my goal of becoming a skilled cybersecurity professional.
 
-As you explore this page, you'll find detailed descriptions of the programs I've completed, the projects I've undertaken, and the labs where I’ve sharpened my skills. Whenever possible, I’ve included links to reports, datasets, presentations, and other relevant resources to provide you with deeper insights into my work and deliverables. Thank you for visiting, and I hope you find inspiration in my journey!
+As you explore this page, you’ll find the highlights of programs I’ve completed, projects I’ve worked on, and labs where I’ve challenged myself to continuously learn and improve upon my skills. I’ve also included links to reports, datasets, and presentations to give you more insight into my work. I hope you enjoy following along on my journey as much as I’ve enjoyed living it—thank you for visiting!
 
 ---
 
@@ -17,15 +18,15 @@ As you explore this page, you'll find detailed descriptions of the programs I've
   - [Datacom Cybersecurity Virtual Experience Program](#datacom-cybersecurity-virtual-experience-program-august-2024)
   - [Mastercard Cybersecurity Virtual Experience Program](#mastercard-cybersecurity-virtual-experience-program-august-2024)
 - [Projects/Activities](#projectsactivities)
-  - [Vulnerability Assessment Report](#vulnerability-assessment-report)
-  - [InfoSec Data Handling](#infosec-data-handling)
-  - [OS Hardening Techniques](#os-hardening-techniques)
-  - [Linux File Permission Management](#linux-file-permission-management)
   - [Cybersecurity Incident Response Project (NIST CSF)](#cybersecurity-incident-response-project-nist-csf)
-  - [Cybersecurity Incident Report Project](#cybersecurity-incident-report-project)
   - [Cybersecurity Network Attack Analysis Project](#cybersecurity-network-attack-analysis-project)
+  - [Vulnerability Assessment Report](#vulnerability-assessment-report)
   - [Network Hardening Analysis Project](#network-hardening-analysis-project)
   - [Botium Toys Security Audit Scenario](#botium-toys-security-audit-scenario)
+  - [OS Hardening Techniques](#os-hardening-techniques)
+  - [InfoSec Data Handling](#infosec-data-handling)
+  - [Cybersecurity Incident Report Project](#cybersecurity-incident-report-project)
+  - [Linux File Permission Management](#linux-file-permission-management)
 - [Labs](#labs)
   - [TryHackMe](#tryhackme)
   - [HackThisSite Penetration Testing Challenges](#hackthissite-penetration-testing-challenges)
@@ -33,7 +34,6 @@ As you explore this page, you'll find detailed descriptions of the programs I've
 ---
 
 ## Programs, Internships, and Virtual Experience
-
 ### Commonwealth Bank Intro to Cybersecurity Virtual Experience Program (August 2024)
 [View Full Report](programs/Commonwealth_Bank_Cybersecurity_Program.pdf)
    - Served as a Cybersecurity Generalist on Commonwealth Bank's Fraud Detection and Response team.
@@ -44,10 +44,12 @@ As you explore this page, you'll find detailed descriptions of the programs I've
 
 ### PwC Cybersecurity Virtual Experience Program (August 2024)
 [View Full Report](programs/PwC_Cybersecurity_Program.pdf)
-   - Worked as a Cybersecurity Analyst and Consultant on PwC Switzerland's Cybersecurity Team.
-   - Conducted a risk assessment, identifying gaps in information security and providing tailored security recommendations.
-   - Developed an integrated defense strategy and provided tailored recommendations on layered security principles for a client.
-   - Wrote a comprehensive report detailing a network segmentation strategy with enhanced access control and secure firewall configuration for the client.
+   - Worked as a **Cybersecurity Analyst and Consultant** on PwC Switzerland's Cybersecurity Team.
+   - **Conducted a comprehensive risk assessment**, identifying gaps in information security.
+   - **Developed an integrated defense strategy**, providing layered security principles for a client.
+   - **Wrote a detailed report** on network segmentation, access control, and firewall configurations.
+   - **Delivered presentations on risk management strategies** and recommended network security improvements.
+   - **Provided tailored security recommendations**, enhancing the client’s overall cybersecurity posture.
 
 ### Datacom Cybersecurity Virtual Experience Program (August 2024)
 [View Full Report](programs/Datacom_Cybersecurity_Program.pdf)
@@ -68,63 +70,71 @@ As you explore this page, you'll find detailed descriptions of the programs I've
 
 ## Projects/Activities 
 
-### Vulnerability Assessment Report
-- Conducted a vulnerability assessment on an organization's network, identifying and mitigating security risks.
-- Created a detailed report outlining vulnerabilities and proposed remediation strategies.
-- [View Full Report](activities/Vulnerability_Assessment_Report.pdf)
-
-### InfoSec Data Handling
-- Analyzed data-handling procedures for confidentiality, integrity, and availability.
-- Proposed improvements for secure data storage and encryption.
-- [View Full Report](activities/InfoSec_Data_Handling_Activity.pdf)
-
-### OS Hardening Techniques
-- Applied OS hardening techniques to secure Linux and Windows systems against unauthorized access.
-- Configured encryption, permissions, and disabled unnecessary services to minimize attack vectors.
-- [View Full Report](activities/OS_Hardening_Techniques_Project.pdf)
-
-### Linux File Permission Management
-- Managed and modified file permissions in a Linux environment to ensure proper access control and protect sensitive files from unauthorized access.
-- [View Full Report](activities/Linux_File_Permission_Management.pdf)
-
 ### Cybersecurity Incident Response Project (NIST CSF)
 - Structured a response plan for a Distributed Denial of Service (DDoS) attack using the NIST Cybersecurity Framework.
-- Enhanced network protection by updating firewall settings, monitoring systems, and implementing an Intrusion Detection System.
+- Enhanced network protection by updating firewall configurations and implementing an Intrusion Detection System (IDS).
+- Coordinated incident response teams to contain the attack and prevent further damage to the network.
+- Provided recommendations for continuous monitoring and post-incident improvements to strengthen defenses.
 - [View Full Report](activities/CyberSecurity_Incident_Response_Project.pdf)
 
-### Cybersecurity Incident Report Project
-- Analyzed a simulated cybersecurity incident and generated a formal incident report following industry best practices.
-- Provided recommendations to prevent similar incidents in the future.
-- [View Full Report](activities/Cybersecurity_Incident_Report_Project.pdf)
-
 ### Cybersecurity Network Attack Analysis Project
-- Analyzed a network-based cyberattack, identifying its vector and method of execution.
-- Implemented enhanced network defenses such as firewalls and intrusion prevention systems.
+- Investigated a network-based cyberattack, identifying attack vectors and methods used by malicious actors.
+- Enhanced network defenses by recommending improvements to firewalls and intrusion prevention systems.
+- Compiled a detailed report on the incident, including an analysis of network vulnerabilities.
+- Provided steps to prevent future network attacks, including proactive defense mechanisms.
 - [View Full Report](activities/Cybersecurity_Network_Attack_Analysis_Project.pdf)
 
+### Vulnerability Assessment Report
+- Conducted a comprehensive assessment of an organization's network, identifying potential vulnerabilities across critical systems.
+- Recommended mitigation strategies to reduce attack surface and secure critical assets.
+- Drafted a detailed report outlining prioritized security measures and remediation strategies.
+- [View Full Report](activities/Vulnerability_Assessment_Report.pdf)
+
 ### Network Hardening Analysis Project
-- Reviewed and evaluated an organization's existing network security and proposed hardening measures.
-- Recommended improvements such as VPNs, access control, and encryption for sensitive data.
+- Conducted a thorough evaluation of an organization’s network security and identified key vulnerabilities.
+- Recommended network hardening measures, including VPN configurations, improved access control, and encryption.
+- Provided strategic advice to enhance the organization's overall security posture and protect sensitive information.
 - [View Full Report](activities/Network_Hardening_Analysis_Project.pdf)
 
 ### Botium Toys Security Audit Scenario
-- Performed a security audit for Botium Toys, identifying vulnerabilities and assessing the organization's risk.
-- Provided recommendations to enhance security controls and prevent future cyber threats.
+- Performed a security audit for Botium Toys, identifying vulnerabilities across their network infrastructure.
+- Provided actionable recommendations to strengthen security controls and mitigate potential cyber threats.
+- Created a risk matrix to assess the likelihood and impact of identified risks.
+- Drafted a comprehensive audit report, outlining the organization's current security posture and suggested improvements.
 - [View Full Report](activities/Botium_Toys_Security_Audit_Scenario.pdf)
+
+### OS Hardening Techniques
+- Implemented OS hardening techniques to secure both Linux and Windows systems against unauthorized access.
+- Configured encryption, adjusted file permissions, and disabled unnecessary services to minimize attack vectors.
+- Audited system configurations to ensure compliance with security standards and best practices.
+- [View Full Report](activities/OS_Hardening_Techniques_Project.pdf)
+
+### InfoSec Data Handling
+- Evaluated data-handling procedures for compliance with CIA (Confidentiality, Integrity, Availability) best practices.
+- Recommended encryption standards and secure data storage methods for safeguarding sensitive information.
+- Developed policies to enhance data handling security and minimize risks of data breaches.
+- [View Full Report](activities/InfoSec_Data_Handling_Activity.pdf)
+
+### Cybersecurity Incident Report Project
+- Analyzed a simulated cybersecurity incident, generating a formal incident report based on industry best practices.
+- Identified root causes of the breach and recommended mitigation strategies to prevent future occurrences.
+- Followed standard incident response procedures, ensuring thorough analysis and post-incident recovery.
+- [View Full Report](activities/Cybersecurity_Incident_Report_Project.pdf)
+
+### Linux File Permission Management
+- Managed file permissions in a Linux environment to enforce access control and protect sensitive files.
+- Configured permissions to ensure least privilege access, restricting unauthorized users from critical data.
+- Demonstrated proficiency in managing Linux file systems and applying secure permission settings.
+- [View Full Report](activities/Linux_File_Permission_Management.pdf)
 
 ---
 
 ## Labs
+
 ### TryHackMe
    - Completed labs on network security, password cracking, and privilege escalation.
 
 ### HackThisSite Penetration Testing Challenges
 [View Full Report](labs/hackthissite.md)
    - **Identified Critical Web Application Vulnerabilities**: Discovered and exploited vulnerabilities like weak input validation, insecure encryption, and improper authentication mechanisms across multiple levels.
-   - **Applied Advanced Penetration Testing Techniques**: Utilized techniques such as command injection, SSI injection, cookie tampering, and directory traversal to gain unauthorized access to sensitive information.
-   - **Analyzed and Reversed Weak Encryption Methods**: Successfully reverse-engineered encryption algorithms, showcasing the importance of using strong, industry-standard encryption methods.
-   - **Provided Security Recommendations**: Documented each exploit with detailed recommendations to improve input validation, strengthen authentication, and secure server-side logic and file permissions.
-
----
-
-[Back to main page](https://github.com/yourusername/your-main-repo)
+   - **Applied Advanced Penetration Testing Techniques**: Utilized techniques such as command injection, SSI injection, cookie tampering, and directory traversal to
