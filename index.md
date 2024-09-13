@@ -28,7 +28,7 @@ My name is Justin Goncalves, and I am an aspiring cybersecurity professional wit
 ---
 
 ### 📖 Background
-I started my career working in pharmacy and healthcare, where I developed a passion for helping others. However, I was drawn to the endless possibilities that technology offers. My curiosity pushed me toward **web development**, which fascinated me with its constant learning opportunities and the freedom to create anything with code.
+I started my career working in pharmacy and healthcare, where I developed a passion for helping others. However, I was drawn to the endless possibilities that technology offers. My curiosity pushed me toward web development, which fascinated me with its constant learning opportunities and the freedom to create anything with code.
 
 After gaining experience as a freelance web developer, I became interested in cybersecurity as I learned more about **fraud**, **hacking**, and **cybercrime**. This inspired me to dive deeper into how to **mitigate risks** and **secure digital environments**. My love of learning and commitment to protecting systems now drive me to explore every facet of the cybersecurity landscape.
 
