@@ -136,7 +136,7 @@ As you explore this page, you’ll find the highlights of programs I’ve comple
      - This course offers hands-on labs covering essential penetration testing techniques, including web application vulnerabilities like SQL Injection, XSS, and IDOR, as well as network security, privilege escalation, and exploitation using tools like Metasploit and Burp Suite.
 
 ### HackThisSite Penetration Testing Challenges
-[View Full Report](labs/hackthissite.md)
+[View Full Report](hackthissite.md)
    - **Identified Critical Web Application Vulnerabilities**: Discovered and exploited vulnerabilities like weak input validation, insecure encryption, and improper authentication mechanisms across multiple levels.
    - **Applied Advanced Penetration Testing Techniques**: Utilized techniques such as command injection, SSI injection, cookie tampering, and directory traversal to gain unauthorized access to sensitive information.
    - **Analyzed and Reversed Weak Encryption Methods**: Successfully reverse-engineered encryption algorithms, showcasing the importance of using strong, industry-standard encryption methods.
