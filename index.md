@@ -164,7 +164,7 @@ I regularly publish blog-style posts that dive into current cybersecurity trends
 
 Feel free to reach out to me if you have any questions, opportunities, or just want to connect!
 
-- **Email**: justingoncalves34@gmail.com
+- **Email**: personal: justingoncalves34@gmail.com | work: justin@digitweb.solutions
 - **LinkedIn**: [Justin Goncalves](https://www.linkedin.com/in/justingoncalves/) 
 - **GitHub**: [@justingoncalves](https://github.com/justingoncalves)
 
