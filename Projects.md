@@ -52,6 +52,7 @@ As you explore this page, you’ll find the highlights of programs I’ve comple
 
 ### Datacom Cybersecurity Virtual Experience Program (August 2024)
 [View Full Report](programs/Datacom_Cybersecurity_Program.pdf)
+   - Worked as a **Cybersecurity Analyst** in the **Incident Response Team** at Datacom, focusing on threat detection and mitigation.
    - Investigated an Advanced Persistent Threat (APT34) attack, conducting in-depth research on their tactics, techniques, and procedures (TTPs) using Open-Source Intelligence (OSINT) tools.
    - Produced a comprehensive cybersecurity investigation report, documenting findings and providing key recommendations to improve the client’s cybersecurity posture.
    - Developed a risk matrix and assessed the client’s existing security controls, identifying vulnerabilities and proposing mitigation strategies for critical assets like customer data and financial information.
