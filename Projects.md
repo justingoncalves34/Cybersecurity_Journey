@@ -70,7 +70,7 @@ As you explore this page, you’ll find the highlights of programs I’ve comple
 ## Projects/Activities 
 
 ### Cybersecurity Incident Response Project (NIST CSF)  
-[View Full Report](activities/CyberSecurity_Incident_Response_Project_NIST_CSF.pdf)  
+[View Full Report](activities/CyberSecurity_Incident_Response_Project_(NIST_CSF).pdf)  
 - Developed a response plan for a Distributed Denial of Service (DDoS) attack based on the NIST Cybersecurity Framework.  
 - Strengthened network defenses by updating firewall settings, monitoring systems, and applying network segmentation.  
 - Implemented an Intrusion Detection System (IDS) for real-time monitoring and analysis of threats.  
@@ -102,7 +102,7 @@ As you explore this page, you’ll find the highlights of programs I’ve comple
 - Documented recommendations and guided the team through implementation.
 
 ### Botium Toys Security Audit Scenario  
-[View Full Report](activities/Botium_Toys_Security_Audit_Scenario.pdf)  
+[View Full Report](activities/Botium_Toys_Security_Audit_Senario.pdf) 
 - Conducted a security audit for Botium Toys, identifying vulnerabilities in their network infrastructure and assessing the organization's risk.  
 - Provided comprehensive recommendations for improving security controls and reducing cyber risks, including enhanced firewall policies and encryption protocols.  
 - Proposed an action plan to mitigate identified vulnerabilities, including the use of intrusion detection systems (IDS) and continuous monitoring.  
@@ -116,7 +116,7 @@ As you explore this page, you’ll find the highlights of programs I’ve comple
 - Conducted post-hardening testing to ensure system integrity and security.
 
 ### InfoSec Data Handling Security Assessment
-[View Full Report](activities/InfoSec_Data_Handling_Security_Assessment.pdf)  
+[View Full Report](activities/InfoSec_Data_Handling_Activity.pdf)  
 - Analyzed data-handling procedures for confidentiality, integrity, and availability.
 - Recommended security controls and access authorization protocols based on NIST SP 800-53 guidelines.
 - Proposed improvements for secure data storage and encryption to prevent unauthorized access.
