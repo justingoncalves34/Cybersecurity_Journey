@@ -4,7 +4,7 @@
 --- 
 [Back to Main Portfolio](index.md)
 
-[More about me](aboutme.md)
+[More About Me](aboutme.md)
 
 ---
 
