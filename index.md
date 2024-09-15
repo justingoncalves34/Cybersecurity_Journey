@@ -1,11 +1,12 @@
 # 👾 Welcome to My Portfolio!
 
-### [About Me](aboutme.md) | [Projects](Projects.md) | [Resume](resume.md) | [Blog](blog.md)
-
 ---
 
 Here, you'll find a showcase of my journey through the world of cybersecurity, including hands-on projects, professional experiences, certifications, and blog-style posts sharing my thoughts and learning experiences.
 
+---
+
+### [About Me](aboutme.md) | [Projects](Projects.md) | [Resume](resume.md) | [Blog](blog.md)
 
 ---
 
