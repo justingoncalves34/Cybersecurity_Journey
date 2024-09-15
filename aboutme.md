@@ -5,7 +5,7 @@
 # 👨🏽‍💻 About Me
 
 ---
-Get to know a little about the man behind the screen—my passions, interests, and journey in cybersecurity. On this page, you'll find a mix of personal insights and professional experiences that have shaped who I am inside and outside of the digital world.
+Get to know a little about the man behind the screen... learn more about my passions, interests, and journey in cybersecurity. On this page, you'll find a mix of personal insights and professional experiences that have shaped who I am inside and outside of the digital world.
 
 ---
 
