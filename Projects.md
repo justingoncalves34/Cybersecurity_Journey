@@ -1,4 +1,4 @@
-### [Home](index.md) | [About Me](aboutme.md) | [Resume](resume.md) | [Blog](blog.md)
+### [Home](index.md)  |  [About Me](aboutme.md)  |  [Resume](resume.md)  |  [Blog](blog.md)
 
 ---
 # Projects, Labs, and Programs
