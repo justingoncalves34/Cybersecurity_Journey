@@ -4,6 +4,8 @@
 --- 
 [Back to Main Portfolio](index.md)
 
+[More about me](aboutme.md)
+
 ---
 
 ### ***"In cybersecurity, strategy isn't just reactive; it's proactive. You defend best by thinking ahead of your adversaries."***
