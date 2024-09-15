@@ -161,13 +161,15 @@ In this portfolio, you will find several projects that highlight my skills and p
 
 ## 📄 Resume
 
-My resume is available for download [here](#) (You can link to your resume in PDF format once it’s uploaded).
+My resume is available for download [here](resume.md) 
 
 ---
 
 ## ✍🏽 Blog Posts
 
 I regularly publish blog-style posts that dive into current cybersecurity trends, personal reflections on my learning process, and how I’ve applied theoretical knowledge to real-world problems. Stay tuned for insights on emerging cybersecurity threats, best practices, and more!
+
+[Check out my blog!](blog.md)
 
 ---
 
