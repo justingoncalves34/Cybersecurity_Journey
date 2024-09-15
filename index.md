@@ -22,7 +22,9 @@ Here, you'll find a showcase of my journey through the world of cybersecurity, i
 ---
 
 ## 👨🏽‍💻 About Me
-My name is Justin Goncalves, and I am an aspiring cybersecurity professional with a diverse background in business management, data analysis, IT support, and web development. My strong curiosity and passion for solving complex challenges have driven my interest in information security, particularly in **penetration testing** and **ethical hacking**. I am currently focused on expanding my expertise in vulnerability management, threat detection, and incident response as I work toward becoming a **Tier 1 Cybersecurity Analyst**. For me, _cybersecurity isn’t just a job—it’s a chance to protect the future, make a meaningful impact, and contribute to a safer, more resilient digital world._
+My name is Justin Goncalves, and I am an aspiring cybersecurity professional with a diverse background in business management, data analysis, IT support, and web development. My strong curiosity and passion for solving complex challenges have driven my interest in information security, particularly in **penetration testing** and **ethical hacking**. I am currently focused on expanding my expertise in vulnerability management, threat detection, and incident response as I work toward becoming a **Tier 1 Cybersecurity Analyst**. 
+
+For me, _cybersecurity isn’t just a job—it’s a chance to protect the future, make a meaningful impact, and contribute to a safer, more resilient digital world._
 
 [Read my professional statement](Professional_Statement.md)
 
