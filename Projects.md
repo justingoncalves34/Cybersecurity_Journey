@@ -4,11 +4,12 @@ This page represents my passion and dedication to cybersecurity, showcasing a co
 
 As you explore this page, you’ll find the highlights of programs I’ve completed, projects I’ve worked on, and labs where I’ve challenged myself to continuously learn and improve upon my skills. I’ve also included links to reports, datasets, and presentations to give you more insight into my work. I hope you enjoy following along on my journey as much as I’ve enjoyed living it—thank you for visiting!
 
+--- 
+
+[Back to Main Portfolio](index.md)
+
 ---
 
-[Back to Main Repository](index.md)
-
----
 
 ## Table of Contents
 - [Programs, Internships, and Virtual Experience](#programs-internships-and-virtual-experience)
@@ -136,13 +137,15 @@ As you explore this page, you’ll find the highlights of programs I’ve comple
    - **Jr. Penetration Tester Certificate Course** (currently in progress). Upon completion, I will upload my certificate, along with detailed reports and my personal reflection!
      - This course offers hands-on labs covering essential penetration testing techniques, including web application vulnerabilities like SQL Injection, XSS, and IDOR, as well as network security, privilege escalation, and exploitation using tools like Metasploit and Burp Suite.
 
-### HackThisSite Penetration Testing Challenges
+### HackThisSite.org Penetration Testing Challenges
 [View Full Report](hackthissite.md)
    - **Identified Critical Web Application Vulnerabilities**: Discovered and exploited vulnerabilities like weak input validation, insecure encryption, and improper authentication mechanisms across multiple levels.
    - **Applied Advanced Penetration Testing Techniques**: Utilized techniques such as command injection, SSI injection, cookie tampering, and directory traversal to gain unauthorized access to sensitive information.
    - **Analyzed and Reversed Weak Encryption Methods**: Successfully reverse-engineered encryption algorithms, showcasing the importance of using strong, industry-standard encryption methods.
    - **Provided Security Recommendations**: Documented each exploit with detailed recommendations to improve input validation, strengthen authentication, and secure server-side logic and file permissions.
 
----
+--- 
 
-[Back to main page](https://github.com/yourusername/your-main-repo)
+[Back to Main Portfolio](index.md)
+
+---
