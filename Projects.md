@@ -1,12 +1,11 @@
+### [Home](index.md) | [About Me](aboutme.md) | [Resume](resume.md) | [Blog](blog.md)
+
+---
 # Projects, Labs, and Programs
 
 This page represents my passion and dedication to cybersecurity, showcasing a collection of projects, hands-on labs, and professional programs that have helped shape my journey. Each project has provided me with the opportunity to dive deeper into cybersecurity principles, gain practical, real-world experience, and sharpen my technical skills. From formal training initiatives to independent explorations, this portfolio reflects my growth as I pursue my goal of becoming a skilled cybersecurity professional.
 
 As you explore this page, you’ll find the highlights of programs I’ve completed, projects I’ve worked on, and labs where I’ve challenged myself to continuously learn and improve upon my skills. I’ve also included links to reports, datasets, and presentations to give you more insight into my work. I hope you enjoy following along on my journey as much as I’ve enjoyed living it—thank you for visiting!
-
---- 
-
-### [Home](index.md) | [About Me](aboutme.md) | [Resume](resume.md) | [Blog](blog.md)
 
 ---
 
