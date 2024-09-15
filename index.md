@@ -10,13 +10,14 @@ Here, you'll find a showcase of my journey through the world of cybersecurity, i
    - [🎓 Certifications](#-certifications)
    - [🎓 Education](#-education)
    - [💡 Skills](#-skills)
-     - 🛡️ Technical Skills
-     - 💼 Professional Skills
-     - 🛠️ Tools/Languages
+     - [🛡️ Technical Skills](#%EF%B8%8F-technical-skills)
+     - [💼 Professional Skills](#-professional-skills)
+     - [🛠️ Tools/Languages](#%EF%B8%8F-toolslanguages)
 - [📂 Projects](#-projects)
 - [📄 Resume](#-resume)
 - [✍🏽 Blog Posts](#-blog-posts)
 - [💬 Contact Information](#-contact-information)
+
 
 ---
 
