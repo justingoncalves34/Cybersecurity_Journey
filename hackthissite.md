@@ -114,26 +114,10 @@ The project explores vulnerabilities like weak input validation, insecure encryp
 
 The HackThisSite penetration testing exercise highlighted a variety of critical vulnerabilities, including weak input validation, flawed authentication, and poor encryption practices. By exploiting these vulnerabilities using techniques such as command injection, directory traversal, and cookie manipulation, I gained unauthorized access to restricted areas of the application. This exercise underscored the importance of strong input validation, server-side checks, and modern encryption methods to mitigate risks and protect sensitive data. Addressing these issues through secure development practices is crucial for enhancing the security posture of any web application.
 
-This project provided invaluable hands-on experience with various penetration testing techniques and tools such as Burp Suite and OWASP ZAP, reinforcing my understanding of how web vulnerabilities are exploited in real-world scenarios. By learning to identify and address these vulnerabilities, I am better equipped to ensure that future applications are built with robust security controls, thereby reducing the risk of exploitation and strengthening overall application integrity.
+This project provided invaluable hands-on experience with various penetration testing techniques, reinforcing my understanding of how web vulnerabilities are exploited in real-world scenarios. By learning to identify and address these vulnerabilities, I am better equipped to ensure that future applications are built with robust security controls, thereby reducing the risk of exploitation and strengthening overall application integrity.
 
 ---
 
-## References
-
-- [HackThisSite](https://www.hackthissite.org/)
-- [OWASP Top 10](https://owasp.org/www-project-top-ten/)
-- [Burp Suite](https://portswigger.net/burp)
-- **Commonwealth Bank Resources**:  
-   - [Hint for Levels 1, 2, & 3](https://www.computerhope.com/issues/ch000746.htm)  
-   - [View Source Code for Levels 1, 2, & 3](https://viewsourcepage.com/how-to-view-source-code/)  
-   - [Hint for Levels 4 & 5](https://www.howtogeek.com/442634/how-to-edit-any-web-page-right-in-chrome-or-any-browser/)  
-   - [Hint for Level 6](https://www.asciitable.com/)  
-   - [Hint for Level 7 - Unix Cal Command](https://shapeshed.com/unix-cal/)  
-   - [Hint for Level 7 - Cal Command Examples](https://www.geeksforgeeks.org/cal-command-in-linux-with-examples/)  
-   - [Linux Commands Cheat Sheet - Level 7](https://developers.redhat.com/cheat-sheets/linux-commands-cheat-sheet-old)  
-   - [SSI Injection Hints for Levels 8 & 9](https://owasp.org/www-community/attacks/Server-Side_Includes_(SSI)_Injection)  
-   - [Hint for Level 10 - Cookies](https://developer.chrome.com/docs/devtools/storage/cookies/)  
-   - [Hint for Level 11 - .htaccess](https://httpd.apache.org/docs/2.4/howto/htaccess.html)
-
----
 [Back to Projects](Projects.md)
+
+
