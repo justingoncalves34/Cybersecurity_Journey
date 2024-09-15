@@ -1,10 +1,11 @@
-# 👨🏽‍💻 About Me
-
-Get to know a little about the man behind the screen—my passions, interests, and journey in cybersecurity. On this page, you'll find a mix of personal insights and professional experiences that have shaped who I am inside and outside of the digital world.
+### [Home](index.md) | [Projects](Projects.md) | [Resume](resume.md) | [Blog](blog.md)
 
 ---
 
-[Back to the Main Portfolio](index.md)
+# 👨🏽‍💻 About Me
+
+---
+Get to know a little about the man behind the screen—my passions, interests, and journey in cybersecurity. On this page, you'll find a mix of personal insights and professional experiences that have shaped who I am inside and outside of the digital world.
 
 ---
 
