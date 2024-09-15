@@ -18,4 +18,3 @@ I am particularly drawn to cybersecurity because of its dynamic and challenging 
 I am confident that my unique blend of skills, values, and enthusiasm for cybersecurity will be an asset to any organization seeking to enhance their security posture and stay ahead of emerging threats. As I continue to accumulate certificates, tenure, and technical/practical experience, I am excited to contribute to and grow within the cybersecurity community.
 
 --- 
-[Back to Main Portfolio](index.md)
