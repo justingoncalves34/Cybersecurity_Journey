@@ -18,3 +18,6 @@ My core values of integrity, accountability, authenticity, and hard work are the
 I am particularly drawn to cybersecurity because of its dynamic and challenging environment, where there is always something new to learn and numerous opportunities to make a significant impact. My ultimate goal is to obtain a government security clearance and contribute to national cybersecurity efforts, ensuring the protection of critical information and systems.
 
 I am confident that my unique blend of skills, values, and enthusiasm for cybersecurity will be an asset to any organization seeking to enhance their security posture and stay ahead of emerging threats. As I continue to accumulate certificates, tenure, and technical/practical experience, I am excited to contribute to and grow within the cybersecurity community.
+
+--- 
+[Back to Main Portfolio](index.md)
