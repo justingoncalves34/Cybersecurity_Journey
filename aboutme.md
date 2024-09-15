@@ -9,7 +9,7 @@ Get to know a little about the man behind the screen—my passions, interests, a
 ---
 
 ## Table of Contents
-- [🤔 Who Am I?](#who-am-i)
+- [🤔 Who Am I?](#who-am-i?)
 - [💡 Core Skills & Competencies](#-core-skills--competencies)
 - [📄 Professional Statement](#-professional-statement)
 - [🚀 Future Goals](#-future-goals)
