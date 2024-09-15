@@ -2,7 +2,7 @@
 # Professional Statement
 
 --- 
-[Back to Main Repository](index.md)
+[Back to Main Portfolio](index.md)
 
 ---
 
