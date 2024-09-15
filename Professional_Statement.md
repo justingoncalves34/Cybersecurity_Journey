@@ -1,12 +1,8 @@
-
-# Professional Statement
-
---- 
-[Back to Main Portfolio](index.md)
-
-[More About Me](aboutme.md)
+### [Home](index.md) | [About Me](aboutme.md) | [Projects](Projects.md) | [Resume](resume.md) | [Blog](blog.md)
 
 ---
+
+## Professional Statement
 
 ### ***"In cybersecurity, strategy isn't just reactive; it's proactive. You defend best by thinking ahead of your adversaries."***
 
