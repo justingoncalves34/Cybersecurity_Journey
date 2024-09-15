@@ -6,7 +6,7 @@ As you explore this page, you’ll find the highlights of programs I’ve comple
 
 --- 
 
-[Back to Main Portfolio](index.md)
+### [Home](index.md) | [About Me](aboutme.md) | [Resume](resume.md) | [Blog](blog.md)
 
 ---
 
