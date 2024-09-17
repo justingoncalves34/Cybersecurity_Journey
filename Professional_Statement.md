@@ -1,4 +1,4 @@
-### [Home](index.md) | [About Me](aboutme.md) | [Projects](Projects.md) | [Resume](resume.md) | [Blog](blog.md)
+### [Home](index.md) | [About Me](aboutme.md) | [Projects](Projects.md) | [Resume](CyberSecurity_Resume.pdf) | [Blog](blog.md)
 
 ---
 
