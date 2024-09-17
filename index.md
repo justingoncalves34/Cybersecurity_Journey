@@ -6,7 +6,7 @@ Here, you'll find a showcase of my journey through the world of cybersecurity, i
 
 ---
 
-### [About Me](aboutme.md) | [Projects](Projects.md) | [Resume](resume.md) | [Blog](blog.md)
+### [About Me](aboutme.md) | [Projects](Projects.md) | [Resume](CyberSecurity_Resume.pdf) | [Blog](blog.md)
 
 ---
 
@@ -161,7 +161,7 @@ In this portfolio, you will find several projects that highlight my skills and p
 
 ## 📄 Resume
 
-My resume is available for download [here](resume.md) 
+My resume is available for download [here](CyberSecurity_Resume.pdf) 
 
 ---
 
