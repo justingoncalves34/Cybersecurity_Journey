@@ -181,6 +181,6 @@ Feel free to reach out to me if you have any questions, opportunities, or just w
    - personal: justingoncalves34@gmail.com
    - work: justin@digitweb.solutions
 - **LinkedIn**: [Justin Goncalves](https://www.linkedin.com/in/justingoncalves/) 
-- **GitHub**: [@justingoncalves](https://github.com/justingoncalves)
+- **Portfolio**: [@justingoncalves](https://justingoncalves34.github.io/Cybersecurity_Journey/)
 
 I’m always open to networking, collaboration, and opportunities to contribute to the cybersecurity community. Thanks for visiting my portfolio!
