@@ -126,6 +126,7 @@ As I honed my skills as a freelance web developer, my focus gradually shifted to
    - Wireshark
    - BurpSuite
    - Metasploit
+   - Microsoft Azure + Sentinel
    - Linux
    - Chronicle
    - Python
