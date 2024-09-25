@@ -145,7 +145,7 @@ In this portfolio, you will find several projects that highlight my skills and p
 - Served as an **Analyst and Security Engineer** in the **Telstra Security Operations Center (SOC)**, leading efforts to respond to malware attacks and implementing a custom Python script for a firewall rule to block malicious traffic.
 - Analyzed **firewall logs** to detect malicious patterns and conducted postmortem analysis for root cause identification, improving overall system hardening.
 
-### Commonwealth Bank Intro to Cybersecurity Virtual Experience Program (August 2024)
+### Commonwealth Bank Intro to Cybersecurity Program (August 2024)
 - Worked as a **Cybersecurity Generalist** on Commonwealth Bank's **Fraud Detection and Response Team**, leveraging **Splunk** to analyze fraud patterns and manage phishing and malware incidents.
 - Conducted **penetration testing** on web applications, identifying critical vulnerabilities and delivering remediation strategies.
 
