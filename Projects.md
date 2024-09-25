@@ -9,11 +9,11 @@ As you explore this page, you’ll find the highlights of programs I’ve comple
 
 ---
 
-
 ## Table of Contents
 - [Programs, Internships, and Virtual Experience](#programs-internships-and-virtual-experience)
-  - [Commonwealth Bank Intro to Cybersecurity Virtual Experience Program](#commonwealth-bank-intro-to-cybersecurity-virtual-experience-program-august-2024)
-  - [PwC Cybersecurity Virtual Experience Program](#pwc-cybersecurity-virtual-experience-program-august-2024)
+  - [Telstra Cybersecurity Program](#telstra-cybersecurity-program-september-2024)
+  - [Commonwealth Bank Intro to Cybersecurity Virtual Experience Program](#commonwealth-bank-intro-to-cybersecurity-program-august-2024)
+  - [PwC Cybersecurity Virtual Experience Program](#pwc-switzerland-cybersecurity-program-august-2024)
   - [Datacom Cybersecurity Virtual Experience Program](#datacom-cybersecurity-virtual-experience-program-august-2024)
   - [Mastercard Cybersecurity Virtual Experience Program](#mastercard-cybersecurity-virtual-experience-program-august-2024)
 - [Projects/Activities](#projectsactivities)
@@ -29,42 +29,47 @@ As you explore this page, you’ll find the highlights of programs I’ve comple
 - [Labs](#labs)
   - [TryHackMe](#tryhackme)
   - [HackThisSite Penetration Testing Challenges](#hackthissite-penetration-testing-challenges)
-
 ---
 
 ## Programs, Internships, and Virtual Experience
-### Commonwealth Bank Intro to Cybersecurity Virtual Experience Program (August 2024)
-[View Full Report](programs/Commonwealth_Bank_Cybersecurity_Program.pdf)
-   - Served as a Cybersecurity Generalist on Commonwealth Bank's Fraud Detection and Response team.
-   - Analyzed and visualized data using Splunk to identify patterns in fraud-related transactions.
-   - Managed a simulated phishing and malware incident by following the Incident Response Lifecycle, including containment, eradication, recovery, and steps for future prevention.
-   - Designed security awareness infographics promoting secure password management based on Australian Cybersecurity Centre best practices.
-   - Gained hands-on experience in penetration testing by identifying and exploiting vulnerabilities in web applications, and then recommending remediation strategies.
+### Telstra Cybersecurity Program (September 2024)
+[View Full Report](programs/Telstra_Cybersecurity_Program.pdf)
+   - Served as an **Analyst and Security Engineer** in the **Telstra Security Operations Center (SOC)**, leading efforts to respond to a **malware attack** targeting critical infrastructure and coordinating with relevant teams for swift incident response.
+   - Proactively analyzed **firewall logs** to detect malicious patterns, providing actionable insights and collaborating on the development of technical solutions to enhance **firewall security**.
+   - Engineered, scripted, and implemented a **custom Python firewall rule** to block malicious traffic exploiting the **Spring4Shell vulnerability** (CVE-2022-22965), strengthening network defenses.
+   - Conducted a thorough **incident postmortem**, including root cause analysis and risk impact assessment, and delivering key recommendations to bolster future prevention measures and system hardening.
 
-### PwC Cybersecurity Virtual Experience Program (August 2024)
+### Commonwealth Bank Intro to Cybersecurity Program (August 2024)
+[View Full Report](programs/Commonwealth_Bank_Cybersecurity_Program.pdf)
+   - Served as a **Cybersecurity Generalist** on Commonwealth Bank's **Fraud Detection and Response Team**, contributing to efforts in identifying and mitigating security threats.
+   - **Utilized Splunk** to analyze and visualize transactional data, uncovering patterns related to potential fraud and enhancing incident detection capabilities.
+   - **Led the management of a simulated phishing and malware attack**, applying the **Incident Response Lifecycle** (containment, eradication, and recovery), and implementing steps for improved future prevention.
+   - **Developed security awareness materials**, including infographics promoting secure password management practices, aligned with **Australian Cybersecurity Centre best practices**.
+   - **Performed penetration testing** on web applications, identifying critical vulnerabilities and providing actionable remediation strategies to enhance application security.
+
+### PwC Switzerland Cybersecurity Program (August 2024)
 [View Full Report](programs/PwC_Cybersecurity_Program.pdf)
-   - Worked as a **Cybersecurity Analyst and Consultant** on PwC Switzerland's Cybersecurity Team.
-   - **Conducted a comprehensive risk assessment**, identifying gaps in information security.
-   - **Developed an integrated defense strategy**, providing layered security principles for a client.
-   - **Wrote a detailed report** on network segmentation, access control, and firewall configurations.
-   - **Delivered presentations on risk management strategies** and recommended network security improvements.
-   - **Provided tailored security recommendations**, enhancing the client’s overall cybersecurity posture.
+   - Served as a **Cybersecurity Analyst and Consultant** on PwC Switzerland's **Cybersecurity Team**, leading initiatives to identify security gaps and vulnerabilities within client networks.
+   - **Performed an in-depth risk assessment**, uncovering critical weaknesses in information security and aligning recommendations with industry standards like **NIST** and **ISO/IEC 27001**.
+   - **Developed a comprehensive defense strategy**, incorporating **layered security measures** such as network segmentation, firewalls, and enhanced access control.
+   - **Authored a detailed security report**, outlining actionable steps for improving network security, including firewall optimization and stricter access protocols.
+   - **Presented risk management strategies** to client stakeholders, offering tailored solutions to enhance their overall cybersecurity posture and mitigate future risks.
 
 ### Datacom Cybersecurity Virtual Experience Program (August 2024)
 [View Full Report](programs/Datacom_Cybersecurity_Program.pdf)
-   - Worked as a **Cybersecurity Analyst** in the **Incident Response Team** at Datacom, focusing on threat detection and mitigation.
-   - Investigated an Advanced Persistent Threat (APT34) attack, conducting in-depth research on their tactics, techniques, and procedures (TTPs) using Open-Source Intelligence (OSINT) tools.
-   - Produced a comprehensive cybersecurity investigation report, documenting findings and providing key recommendations to improve the client’s cybersecurity posture.
-   - Developed a risk matrix and assessed the client’s existing security controls, identifying vulnerabilities and proposing mitigation strategies for critical assets like customer data and financial information.
-   - Applied the MITRE ATT&CK Framework to categorize and address cyber threats, creating a detailed defense strategy to protect the client’s networks from future attacks.
+   - Served as a **Cybersecurity Analyst** on Datacom’s **Incident Response Team**, focusing on detecting, analyzing, and mitigating advanced cyber threats.
+   - **Investigated an Advanced Persistent Threat (APT34) attack**, utilizing **Open-Source Intelligence (OSINT) tools** to conduct in-depth research into the group’s tactics, techniques, and procedures (TTPs), and provided actionable intelligence.
+   - **Compiled a detailed cybersecurity investigation report**, outlining key findings and delivering targeted recommendations to enhance the client’s overall cybersecurity posture.
+   - **Created a risk matrix** and evaluated the effectiveness of existing security controls, identifying critical vulnerabilities and proposing mitigation strategies to safeguard sensitive data, including customer and financial information.
+   - **Applied the MITRE ATT&CK Framework** to map out cyber threats, developing a proactive defense strategy to strengthen the client’s networks and prevent future attacks.
 
 ### Mastercard Cybersecurity Virtual Experience Program (August 2024)
 [View Full Report](programs/Mastercard_Cybersecurity_Program.pdf)  
-   - Simulated work experience as a **Cybersecurity Analyst** on Mastercard’s **Security Awareness Team**, focusing on identifying and mitigating phishing threats.
-   - Designed a phishing email simulation campaign, creating a realistic phishing email to test employee security awareness and evaluate vulnerabilities within the organization.
-   - Analyzed phishing campaign results using email open rates and phishing success rates to identify departments that were most susceptible to phishing attacks.
-   - Developed tailored training materials and a presentation to enhance phishing awareness, specifically targeting departments with the highest phishing success rates, such as HR and Marketing.
-   - Provided a creative and engaging security awareness presentation to educate staff on common phishing tactics and strategies for recognizing and avoiding phishing attempts.
+   - Gained hands-on experience as a **Cybersecurity Analyst** on Mastercard's **Security Awareness Team**, with a focus on identifying, mitigating, and educating about phishing threats.
+   - **Developed a phishing email simulation campaign**, crafting realistic phishing emails to test employee security awareness and uncover organizational vulnerabilities.
+   - **Analyzed campaign results**, using metrics such as open rates and phishing success rates to pinpoint departments with higher susceptibility, including HR and Marketing.
+   - **Created tailored training materials** and delivered a comprehensive presentation to raise awareness on phishing tactics and improve overall employee vigilance.
+   - **Led an interactive security awareness session**, educating employees on how to identify and respond to phishing attempts, while fostering a proactive security culture across the organization.
 
 ---
 
@@ -136,7 +141,7 @@ As you explore this page, you’ll find the highlights of programs I’ve comple
    - **Jr. Penetration Tester Certificate Course** (currently in progress). Upon completion, I will upload my certificate, along with detailed reports and my personal reflection!
      - This course offers hands-on labs covering essential penetration testing techniques, including web application vulnerabilities like SQL Injection, XSS, and IDOR, as well as network security, privilege escalation, and exploitation using tools like Metasploit and Burp Suite.
 
-### HackThisSite.org Penetration Testing Challenges
+### HackThisSite Penetration Testing Challenges
 [View Full Report](hackthissite.md)
    - **Identified Critical Web Application Vulnerabilities**: Discovered and exploited vulnerabilities like weak input validation, insecure encryption, and improper authentication mechanisms across multiple levels.
    - **Applied Advanced Penetration Testing Techniques**: Utilized techniques such as command injection, SSI injection, cookie tampering, and directory traversal to gain unauthorized access to sensitive information.
