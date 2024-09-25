@@ -130,7 +130,6 @@ As I honed my skills as a freelance web developer, my focus gradually shifted to
    - Linux
    - Chronicle
    - Python
-   - Azure
    - Git
    - Suricata
    - TCPDump
@@ -140,21 +139,19 @@ As I honed my skills as a freelance web developer, my focus gradually shifted to
 
 ## 📂 Projects
 
-In this portfolio, you will find several projects that highlight my skills and practical experience. Here are two of my most recent projects:
+In this portfolio, you will find several projects that highlight my skills and practical experience. Here are three of my most recent projects:
 
-- **Commonwealth Bank Intro to Cybersecurity Virtual Experience Program (August 2024)**:
-   - Served as a **Cybersecurity Generalist** on Commonwealth Bank's Fraud Detection and Response team.
-   - **Performed in-depth data analysis** using Splunk to identify fraud patterns.
-   - **Managed a simulated phishing and malware incident**, following the **Incident Response Lifecycle** for containment, eradication, and recovery.
-   - **Designed security awareness infographics** promoting secure password management based on **Australian Cybersecurity Centre best practices**.
-   - **Executed penetration testing**, identifying and exploiting web application vulnerabilities, and providing remediation strategies.
+### Telstra Cybersecurity Program (September 2024)
+- Served as an **Analyst and Security Engineer** in the **Telstra Security Operations Center (SOC)**, leading efforts to respond to malware attacks and implementing a custom Python script for a firewall rule to block malicious traffic.
+- Analyzed **firewall logs** to detect malicious patterns and conducted postmortem analysis for root cause identification, improving overall system hardening.
 
-- **PwC Cybersecurity Virtual Experience Program (August 2024)**:
-   - Worked as a **Cybersecurity Analyst and Consultant** on PwC Switzerland's Cybersecurity Team.
-   - **Conducted a comprehensive risk assessment**, identifying gaps in information security.
-   - **Developed an integrated defense strategy**, providing layered security principles for a client.
-   - **Wrote a detailed report** on network segmentation, access control, and firewall configurations.
-   - **Delivered presentations on risk management strategies** and recommended network security improvements.
+### Commonwealth Bank Intro to Cybersecurity Virtual Experience Program (August 2024)
+- Worked as a **Cybersecurity Generalist** on Commonwealth Bank's **Fraud Detection and Response Team**, leveraging **Splunk** to analyze fraud patterns and manage phishing and malware incidents.
+- Conducted **penetration testing** on web applications, identifying critical vulnerabilities and delivering remediation strategies.
+
+### PwC Switzerland Cybersecurity Virtual Experience Program (August 2024)
+- Served as a **Cybersecurity Analyst and Consultant** on PwC’s **Cybersecurity Team**, performing risk assessments and aligning recommendations with **NIST** and **ISO/IEC 27001** standards.
+- Developed a **comprehensive defense strategy**, including network segmentation, firewall optimization, and risk management presentations for client stakeholders.
 
 [More projects, labs, programs, and experiences](Projects.md) will be added to my project portfolio as I continue to develop my skills and complete new work.
 
