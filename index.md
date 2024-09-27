@@ -24,7 +24,6 @@ Here, you'll find a showcase of my journey through the world of cybersecurity, i
 - [✍🏽 Blog Posts](#-blog-posts)
 - [💬 Contact Information](#-contact-information)
 
-
 ---
 
 ## 👨🏽‍💻 About Me
