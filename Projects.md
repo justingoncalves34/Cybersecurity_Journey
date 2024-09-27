@@ -28,7 +28,8 @@ As you explore this page, you’ll find the highlights of programs I’ve comple
   - [Linux File Permission Management](#linux-file-permission-and-access-control-audit)
 - [Labs](#labs)
   - [TryHackMe](#tryhackme)
-  - [HackThisSite Penetration Testing Challenges](#hackthissite-penetration-testing-challenges)
+  - [HackThisSite Pen-Testing Challenges](#hackthissite-penetration-testing-challenges)
+
 ---
 
 ## Programs, Internships, and Virtual Experience
