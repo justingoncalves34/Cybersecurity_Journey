@@ -17,6 +17,7 @@ As you explore this page, you’ll find the highlights of programs I’ve comple
   - [Datacom Cybersecurity Virtual Experience Program](#datacom-cybersecurity-virtual-experience-program-august-2024)
   - [Mastercard Cybersecurity Virtual Experience Program](#mastercard-cybersecurity-virtual-experience-program-august-2024)
 - [Projects/Activities](#projectsactivities)
+  - [Virtual SOC Environment Project](#virtual-security-operations-center-(SOC)-project)
   - [Cybersecurity Incident Response Project (NIST CSF)](#cybersecurity-incident-response-project-nist-csf)
   - [Cybersecurity Network Attack Analysis Project](#cybersecurity-network-attack-analysis-project)
   - [Cybersecurity Incident Report Project](#cybersecurity-incident-report-project)
@@ -75,6 +76,13 @@ As you explore this page, you’ll find the highlights of programs I’ve comple
 ---
 
 ## Projects/Activities 
+
+### Virtual Security Operations Center (SOC) Project  
+[View Full Report](Virtual_SOC_Environment.md)  
+- Established a cloud-based SOC using Microsoft Azure and Microsoft Sentinel, focusing on real-time monitoring and incident response.  
+- Monitored over **7.6 million events** and generated nearly **6,000 alerts** throughout the project duration.  
+- Implemented custom alert rules using Kusto Query Language (KQL) to optimize threat detection and incident management processes.  
+- Conducted analysis of attack patterns, identifying peak activity times and refining incident response strategies to improve monitoring efficiency.
 
 ### Cybersecurity Incident Response Project (NIST CSF)  
 [View Full Report](activities/CyberSecurity_Incident_Response_Project_(NIST_CSF).pdf)  
