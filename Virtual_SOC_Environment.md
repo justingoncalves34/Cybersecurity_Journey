@@ -98,19 +98,37 @@ The implementation of the SOC not only provided insights into attack patterns bu
 I configured multiple custom rule alerts using KQL to enhance the monitoring capabilities of the SOC. The queries for these alerts were designed to capture various security events and behaviors, allowing me to respond quickly to potential threats. Below are some key custom alert rules that were implemented:
 
 1. **Brute Force Attempt Rule Alert**  
-![Brute Force Attempt Rule Alert](images/virtual_soc/Brute_Force_Attempt_Rule_Alert.png)  
+```kql
+SecurityEvent
+| where EventID == 4625 // Failed logon attempt
+| summarize Count = count() by Account, bin(TimeGenerated, 5m)
+| where Count >= 5 // Threshold for alerting
+```
 *This query tracks repeated failed logon attempts, indicating a potential brute force attack.*
 
 2. **Password Change Attempt Rule Alert**  
-![Password Change Attempt Rule Alert](images/virtual_soc/Password_Change_Attempt_Rule_Alert.png)  
+```kql
+SecurityEvent
+| where EventID == 4723 // Attempted password change
+| project TimeGenerated, Account
+```
 *This rule generates alerts for any password change requests made on the system.*
 
 3. **Systems Down Rule Alert**  
-![Systems Down Rule Alert](images/virtual_soc/Systems_Down_Rule_Alert.png)  
+```kql
+Heartbeat
+| summarize LastHeartbeat = max(TimeGenerated) by Computer
+| where LastHeartbeat < ago(5m)
+```
 *This alert monitors the heartbeat of the VMs to identify any unresponsive systems.*
 
 4. **Unusual Account Behavior Rule Alert**  
-![Unusual Account Behavior Rule Alert](images/virtual_soc/Unusual_Account_Behavior_Rule_Alert.png)  
+```kql
+SecurityEvent
+| where EventID == 4624 // Successful logon
+| summarize Count = count() by Account, bin(TimeGenerated, 1d)
+| where Count < 5
+```
 *This query identifies unusual activities in user accounts that could indicate a potential security breach.*
 
 The implementation of the SOC involved deploying two Windows 11 Pro virtual machines and configuring Microsoft Sentinel for comprehensive log analysis. Custom alert rules utilizing Kusto Query Language (KQL) enabled efficient monitoring of security incidents, allowing for quick identification of threats. This phase not only provided insights into attack patterns but also established a strong foundation for effective incident management.
