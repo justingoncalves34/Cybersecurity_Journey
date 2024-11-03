@@ -140,6 +140,10 @@ As I honed my skills as a freelance web developer, my focus gradually shifted to
 
 In this portfolio, you will find several projects that highlight my skills and practical experience. Here are three of my most recent projects:
 
+### Virtual Security Operations Center (SOC) Project (October 2024)
+- Established a cloud-based SOC using Microsoft Azure, focusing on real-time monitoring and incident response over the course of a month, monitoring over **7.6 million events** and generating nearly **6,000 alerts**.
+- Configured Microsoft Sentinel for real-time analysis and monitoring, setting up data connectors and custom alert rules while engaging with real-time security incidents to document responses and insights gained from the logs.
+
 ### Telstra Cybersecurity Program (September 2024)
 - Served as an **Analyst and Security Engineer** in the **Telstra Security Operations Center (SOC)**, leading efforts to respond to malware attacks and implementing a custom Python script for a firewall rule to block malicious traffic.
 - Analyzed **firewall logs** to detect malicious patterns and conducted postmortem analysis for root cause identification, improving overall system hardening.
@@ -147,10 +151,6 @@ In this portfolio, you will find several projects that highlight my skills and p
 ### Commonwealth Bank Intro to Cybersecurity Program (August 2024)
 - Worked as a **Cybersecurity Generalist** on Commonwealth Bank's **Fraud Detection and Response Team**, leveraging **Splunk** to analyze fraud patterns and manage phishing and malware incidents.
 - Conducted **penetration testing** on web applications, identifying critical vulnerabilities and delivering remediation strategies.
-
-### PwC Switzerland Cybersecurity Virtual Experience Program (August 2024)
-- Served as a **Cybersecurity Analyst and Consultant** on PwC’s **Cybersecurity Team**, performing risk assessments and aligning recommendations with **NIST** and **ISO/IEC 27001** standards.
-- Developed a **comprehensive defense strategy**, including network segmentation, firewall optimization, and risk management presentations for client stakeholders.
 
 [More projects, labs, programs, and experiences](Projects.md) will be added to my project portfolio as I continue to develop my skills and complete new work.
 
