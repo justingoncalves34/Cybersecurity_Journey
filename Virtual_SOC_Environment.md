@@ -8,15 +8,11 @@
 
 ## Project Overview
 
-The Virtual Security Operations Center (SOC) project was an ambitious endeavor aimed at establishing a comprehensive monitoring and incident response system in a cloud-based environment. Over the course of one month, I deployed multiple Windows 11 Pro virtual machines in Microsoft Azure, focusing on the real-time analysis of security events and the detection of potential threats. This project stands out not only for its technical implementation but also for its practical application in understanding the dynamics of cybersecurity threats in a virtual landscape.
+The Virtual Security Operations Center (SOC) project aimed to establish a comprehensive monitoring and incident response system in a cloud-based environment. Over the course of one month, I deployed multiple Windows 11 Pro virtual machines in Microsoft Azure, focusing on the real-time analysis of security events and the detection of potential threats. This project not only involved technical implementation but also practical applications of understanding cybersecurity threats in a virtual landscape.
 
-Throughout the project, I monitored over **7.6 million events** and nearly **6,000 alerts**, demonstrating the volume and complexity of data that modern SOCs handle. The ability to track real-world brute force attacks provided invaluable insights into common attack vectors and the importance of maintaining vigilant monitoring practices. 
+During the project, I monitored over 7.6 million events and nearly 6,000 alerts, illustrating the complexity of data that modern SOCs manage. Implementing custom alert rules in Microsoft Sentinel with Kusto Query Language (KQL) allowed for tailored responses to specific threats, ensuring only significant incidents triggered alerts. This proactive approach enhanced efficiency in triage and response processes.
 
-To enhance the effectiveness of my monitoring efforts, I implemented custom alert rules in Microsoft Sentinel, utilizing Kusto Query Language (KQL) to tailor responses to specific threats. This proactive approach to security ensured that only significant incidents triggered alerts, allowing for more efficient triage and response processes.
-
-In addition to establishing a robust monitoring framework, this project underscored the necessity of having playbooks and incident response plans in place to address security events effectively. The hands-on experience gained from configuring data connectors and analyzing real-time alerts prepared me for the challenges of working within a Security Operations Center, reinforcing my commitment to continuous improvement in cybersecurity practices.
-
-By combining technical skills with a deeper understanding of cybersecurity operations, this project has equipped me to contribute meaningfully to the field and better protect critical assets in future roles.
+The project underscored the importance of maintaining vigilant monitoring practices and having incident response plans in place. The hands-on experience gained from configuring data connectors and analyzing real-time alerts has prepared me for the challenges within a Security Operations Center, ultimately equipping me to contribute meaningfully to the field and better protect critical assets in future roles.
 
 ---
 
@@ -34,16 +30,13 @@ By combining technical skills with a deeper understanding of cybersecurity opera
 
 ## Project Scope
 
-The scope of this project is centered around the establishment of a Virtual Security Operations Center (SOC) within a cloud environment, utilizing Microsoft Azure and Microsoft Sentinel. The primary aim was to provide a comprehensive overview of how to monitor, detect, and respond to cybersecurity threats effectively.
+The scope of this project centers on establishing a Virtual Security Operations Center (SOC) within a cloud environment using Microsoft Azure and Microsoft Sentinel. The primary goal was to create a comprehensive system for monitoring, detecting, and responding to cybersecurity threats in real-time. Initially, I planned to deploy one Linux server alongside a Windows server; however, after observing significantly higher activity levels on the Windows server, I opted to delete the Linux server and create a second Windows server. This decision allowed me to concentrate my efforts on effectively monitoring real-world brute force attacks across both of the Windows virtual machines.
 
-Initially, I intended to deploy one Linux and one Windows server. Both servers were operational for a few days, but due to significantly higher activity observed on the Windows server, I decided to delete the Linux server and create a second Windows server. This adjustment allowed me to focus on monitoring real-world brute force attacks on both virtual machines.
+I implemented Microsoft Sentinel and Log Analytics for robust security monitoring, configuring multiple custom alert rules using Kusto Query Language (KQL) to identify potential threats. Additionally, I utilized the Content Hub to establish various data connectors that enhanced the SOC's capability to detect and respond to emerging threats. The SOC's design focused on actively monitoring real-time attack attempts, particularly brute-force attacks targeting the deployed VMs.
 
-I set up Microsoft Sentinel and Log Analytics to facilitate security monitoring, which involved creating multiple custom alert rules using Kusto Query Language (KQL) to detect potential threats and configuring data connectors through the content hub. The SOC was designed to actively monitor real-time attack attempts, particularly focusing on brute-force attacks directed at the deployed VMs.
+Effective budget management was a crucial aspect of the project, as it was conducted under the Azure Free Trial. I monitored resource usage closely to prevent exceeding budget limits, employing the Cost Analysis dashboard to ensure the project remained within the confines of available credits.
 
-Budget management was also crucial, as the project was conducted under the Azure Free Trial. I carefully monitored resource usage to avoid exceeding budget limits, utilizing the Cost Analysis dashboard to ensure the project remained within the confines of the available credits.
-
-The project scope was primarily focused on logging and monitoring, ensuring that effective strategies were in place to detect and respond to cybersecurity threats while maximizing the use of the available resources.
-
+Overall, the project's scope was primarily dedicated to logging and monitoring, with an emphasis on developing strategies to detect and respond to cybersecurity threats while maximizing resource efficiency.
 
 ---
 
@@ -78,15 +71,21 @@ To effectively implement the Virtual Security Operations Center (SOC) and ensure
 
 ## Implementation
 
+The implementation of the Virtual Security Operations Center (SOC) involved several key decisions that significantly influenced the setup and functionality of the monitoring system. Initially, I deployed both a Windows virtual machine and a Linux virtual machine; however, I ultimately decided to delete the Linux server in favor of deploying two Windows 11 Pro VMs. This change was prompted by the notably higher activity levels observed on the Windows server compared to the Linux server. To facilitate the project's objectives, I intentionally left the RDP port open to monitor any malicious behavior or brute force attacks aimed at accessing the RDP. As a result, I concentrated my efforts on these two Windows VMs, enabling a more comprehensive monitoring experience of real-world brute force attacks.
+
+To facilitate effective security monitoring, I set up Microsoft Sentinel and Log Analytics. This involved creating custom alert rules using Kusto Query Language (KQL) to identify specific threats, such as brute force login attempts and unusual user behavior. Initially, I had configured the system to trigger incident creation for each brute force attempt; however, I soon realized that this approach resulted in a high volume of incidents—over 600—making it challenging to efficiently triage alerts. Consequently, I adjusted the settings so that only significant events, such as malware activity, account creation, RDP connections, and password change requests, would generate incidents in the future. This refinement enhanced the monitoring process, allowing for more effective triage of actual security threats.
+
+I used the Content Hub in Microsoft Sentinel to integrate various data connectors. This allowed me to gather and analyze logs from different sources, providing a more holistic view of the security landscape. For instance, I configured Sentinel data connectors to collect logs from the Windows servers and connected Windows Security Events to monitor the activities on the Windows VMs.
+
+The implementation of the SOC not only provided insights into attack patterns but also established a strong foundation for effective incident management. The knowledge gained from this hands-on experience has enhanced my understanding of security operations and equipped me with the skills necessary to thrive in a cybersecurity role.
+
 ### Configuration 
 
-The implementation of the Virtual Security Operations Center (SOC) required several key decisions that significantly influenced the setup and functionality of the monitoring system. Initially, I deployed both a Windows virtual machine and a Linux virtual machine; however, I ultimately decided to delete the Linux server in favor of deploying two Windows 11 Pro VMs. This change was prompted by the notably higher activity levels observed on the Windows server compared to the Linux server. To facilitate the project's objectives, I intentionally left the RDP port open to monitor any malicious behavior or brute force attacks aimed at accessing the RDP. As a result, I concentrated my efforts on these two Windows VMs, enabling a more comprehensive monitoring experience of real-world brute force attacks.
-
-   1. Below are the details showing the settings applied during the creation of the Windows Server 1 virtual machine.
+1. Below are the details showing the settings applied during the creation of the Windows Server 1 virtual machine.
 ![Windows Server 1 Configuration](images/virtual_soc/Windows_Server_1_Configuration.png)
 *Configuration settings for the Windows Server 1 virtual machine.*
 
-   2. To facilitate remote access, the RDP port was intentionally left open, allowing for monitoring and management of the VM without restrictions.
+2. To facilitate remote access, the RDP port was intentionally left open, allowing for monitoring and management of the VM without restrictions.
 ![Allow RDP Port for Win Server](images/virtual_soc/Allow_RDP_Port_for_Win_Server.png)
 *The configuration screen indicating that the RDP port is allowed for the Windows Server.*
 
@@ -94,34 +93,27 @@ The implementation of the Virtual Security Operations Center (SOC) required seve
 ![RDP Desktop](images/virtual_soc/RDP_Desktop.png)
 *This image shows the RDP desktop of the Windows server.*
 
-
 ### Monitoring
-
-To facilitate effective security monitoring, I set up Microsoft Sentinel and Log Analytics. This involved creating custom alert rules using Kusto Query Language (KQL) to identify specific threats, such as brute force login attempts and unusual user behavior. The custom alert rules created in Microsoft Sentinel proved effective in identifying these threats, providing real-time notifications that facilitated prompt responses. 
-
-I used the Content Hub in Microsoft Sentinel to integrate various data connectors. This allowed me to gather and analyze logs from different sources, providing a more holistic view of the security landscape. For instance, I configured Sentinel data connectors to collect logs from the Linux server and connected Windows Security Events to monitor the activities on the Windows VMs. Below is a screenshot of the Sentinel data connectors I configured:
-
-![Sentinel Data Connectors](images/virtual_soc/sentinel_data_connectors.png)
 
 I configured multiple custom rule alerts using KQL to enhance the monitoring capabilities of the SOC. The queries for these alerts were designed to capture various security events and behaviors, allowing me to respond quickly to potential threats. Below are some key custom alert rules that were implemented:
 
-  1. **Brute Force Attempt Rule Alert**  
-   ![Brute Force Attempt Rule Alert](images/virtual_soc/Brute_Force_Attempt_Rule_Alert.png)  
-   *This query tracks repeated failed logon attempts, indicating a potential brute force attack.*
+1. **Brute Force Attempt Rule Alert**  
+![Brute Force Attempt Rule Alert](images/virtual_soc/Brute_Force_Attempt_Rule_Alert.png)  
+*This query tracks repeated failed logon attempts, indicating a potential brute force attack.*
 
-  2. **Password Change Attempt Rule Alert**  
-   ![Password Change Attempt Rule Alert](images/virtual_soc/Password_Change_Attempt_Rule_Alert.png)  
-   *This rule generates alerts for any password change requests made on the system.*
+2. **Password Change Attempt Rule Alert**  
+![Password Change Attempt Rule Alert](images/virtual_soc/Password_Change_Attempt_Rule_Alert.png)  
+*This rule generates alerts for any password change requests made on the system.*
 
-  3. **Systems Down Rule Alert**  
-   ![Systems Down Rule Alert](images/virtual_soc/Systems_Down_Rule_Alert.png)  
-   *This alert monitors the heartbeat of the VMs to identify any unresponsive systems.*
+3. **Systems Down Rule Alert**  
+![Systems Down Rule Alert](images/virtual_soc/Systems_Down_Rule_Alert.png)  
+*This alert monitors the heartbeat of the VMs to identify any unresponsive systems.*
 
-  4. **Unusual Account Behavior Rule Alert**  
-   ![Unusual Account Behavior Rule Alert](images/virtual_soc/Unusual_Account_Behavior_Rule_Alert.png)  
-   *This query identifies unusual activities in user accounts that could indicate a potential security breach.*
+4. **Unusual Account Behavior Rule Alert**  
+![Unusual Account Behavior Rule Alert](images/virtual_soc/Unusual_Account_Behavior_Rule_Alert.png)  
+*This query identifies unusual activities in user accounts that could indicate a potential security breach.*
 
-The implementation of the Virtual Security Operations Center (SOC) involved deploying two Windows 11 Pro virtual machines and configuring Microsoft Sentinel for comprehensive log analysis. Custom alert rules utilizing Kusto Query Language (KQL) enabled efficient monitoring of security incidents, allowing for quick identification of threats. This phase not only provided insights into attack patterns but also established a strong foundation for effective incident management.
+The implementation of the SOC involved deploying two Windows 11 Pro virtual machines and configuring Microsoft Sentinel for comprehensive log analysis. Custom alert rules utilizing Kusto Query Language (KQL) enabled efficient monitoring of security incidents, allowing for quick identification of threats. This phase not only provided insights into attack patterns but also established a strong foundation for effective incident management.
 
 ---
 
@@ -177,15 +169,20 @@ Additionally, the project's budget was effectively managed, with a total expendi
 
 The implementation of the Virtual Security Operations Center (SOC) provided invaluable insights into the dynamics of monitoring and managing security within a virtual environment. Throughout the project, I deployed multiple Windows 11 Pro VMs and configured custom alert rules in Microsoft Sentinel, which allowed me to effectively monitor real-world brute force attacks and other security events. The results demonstrated the importance of adapting incident response strategies, as I adjusted alert triggers to enhance efficiency and focus on significant incidents.
 
-By analyzing the patterns in alert generation, I identified peak activity times that informed my approach to monitoring and responding to potential threats. This project has equipped me with practical experience in using cloud-native security tools and has deepened my understanding of the complexities involved in safeguarding digital environments. Overall, the knowledge gained throughout this project has laid a solid foundation for future endeavors in cybersecurity.
+This project highlighted the critical nature of continuous monitoring to protect vital assets from potential threats. The experience solidified my understanding of how SOCs operate, underscoring the necessity of having well-defined playbooks and incident response plans in place. By analyzing patterns in alert generation and recognizing peak activity times, I became more adept at navigating the complexities of cybersecurity operations.
+
+Ultimately, this project has equipped me with practical experience in using cloud-native security tools and has deepened my understanding of the complexities involved in safeguarding digital environments. The knowledge gained throughout this project has laid a solid foundation for future endeavors in cybersecurity and reinforced my commitment to being proactive in identifying and responding to threats.
+
 
 ---
 
 ## Personal Reflection
 
-Reflecting on this month-long project, I realize the immense value of patience and persistence in the field of cybersecurity. The experience highlighted the critical importance of continuous monitoring to safeguard vital assets and infrastructure from potential threats. I learned firsthand how essential it is to have well-defined playbooks and incident response plans in place to efficiently address and mitigate security incidents as they arise.
+Reflecting on this month-long project, I recognize the immense value of patience and persistence in the field of cybersecurity. The experience underscored the critical importance of continuous monitoring to safeguard vital assets and infrastructure from potential threats. I learned firsthand how essential it is to have well-defined playbooks and incident response plans in place to efficiently address and mitigate security incidents as they arise.
 
-This project has not only enhanced my technical skills but also provided me with a deeper appreciation for the processes and protocols necessary in a Security Operations Center (SOC) environment. I now feel more equipped to navigate the complexities of cybersecurity operations and am better prepared to contribute effectively in future roles. The lessons learned from monitoring real-time events and analyzing alerts have solidified my commitment to being proactive in identifying and responding to threats, ultimately making me a more competent and confident cybersecurity professional.
+The project has significantly enhanced my technical skills and provided me with a deeper appreciation for the processes and protocols necessary in a Security Operations Center (SOC) environment. Engaging with real-time alerts and incidents sharpened my ability to analyze and respond to security events effectively. I now feel more equipped to navigate the complexities of cybersecurity operations, making me better prepared to contribute effectively in future roles.
+
+Overall, this project not only solidified my commitment to proactive threat identification and response but also reinforced my passion for protecting critical digital infrastructures. The insights gained will undoubtedly shape my approach to future cybersecurity challenges and enhance my contributions to any team I join.
 
 ---
 
