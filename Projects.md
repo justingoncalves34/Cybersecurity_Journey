@@ -17,7 +17,7 @@ As you explore this page, you’ll find the highlights of programs I’ve comple
   - [Datacom Cybersecurity Virtual Experience Program](#datacom-cybersecurity-virtual-experience-program-august-2024)
   - [Mastercard Cybersecurity Virtual Experience Program](#mastercard-cybersecurity-virtual-experience-program-august-2024)
 - [Projects/Activities](#projectsactivities)
-  - [Virtual SOC Environment Project](#virtual-security-operations-center-(SOC)-project)
+  - [Virtual Security Operations Center (SOC) Project](#virtual-security-operations-center-soc-project)
   - [Cybersecurity Incident Response Project (NIST CSF)](#cybersecurity-incident-response-project-nist-csf)
   - [Cybersecurity Network Attack Analysis Project](#cybersecurity-network-attack-analysis-project)
   - [Cybersecurity Incident Report Project](#cybersecurity-incident-report-project)
