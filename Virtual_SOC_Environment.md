@@ -44,14 +44,14 @@ Overall, the project's scope was primarily dedicated to logging and monitoring, 
 
 The primary objectives of this project are as follows:
 
-1. **Establish a Virtual SOC**: To create a functioning Virtual Security Operations Center using Azure and Microsoft Sentinel, providing a platform for monitoring and analyzing security events in real-time.
-2. **Implement Real-time Logging and Alerting**: To configure virtual machines to generate and send security logs to Microsoft Sentinel, and to create alert rules that identify potential security threats.
-3. **Utilize Data Connectors**: To leverage the content hub in Microsoft Sentinel to set up various data connectors, enhancing the capability to detect and respond to emerging threats.
-4. **Monitor Brute Force Attacks**: To observe and analyze the real-time brute force attack attempts received by the deployed virtual machines, evaluating the effectiveness of the alerting mechanisms.
-5. **Manage Budget**: To effectively manage the project's budget by utilizing the Azure free trial credits and monitoring the Cost Analysis dashboard, ensuring that the project remains within budget constraints.
-6. **Evaluate Security Posture**: To assess the overall security posture of the virtual environment through the analysis of logged events and alerts, identifying potential vulnerabilities and areas for improvement.
-7. **Analyze Attack Patterns**: To conduct an analysis of the attack patterns observed during the monitoring phase, helping to inform future security strategies and defenses.
-8. **Enhance Technical Skills**: To improve my understanding and technical proficiency in using cloud security tools and best practices for incident response and monitoring.
+1. **Establish a Virtual SOC**: Create a functioning Virtual Security Operations Center using Azure and Microsoft Sentinel, providing a platform for monitoring and analyzing security events in real-time.
+2. **Implement Real-time Logging and Alerting**: Configure virtual machines to generate and send security logs to Microsoft Sentinel and create alert rules that identify potential security threats.
+3. **Utilize Data Connectors**: Leverage the content hub in Microsoft Sentinel to set up various data connectors, enhancing the capability to detect and respond to emerging threats.
+4. **Monitor Brute Force Attacks**: Observe and analyze the real-time brute force attack attempts received by the deployed virtual machines, evaluating the effectiveness of the alerting mechanisms.
+5. **Manage Budget**: Effectively manage the project's budget by utilizing the Azure free trial credits and monitoring the Cost Analysis dashboard, ensuring that the project remains within budget constraints.
+6. **Evaluate Security Posture**: Assess the overall security posture of the virtual environment through the analysis of logged events and alerts, identifying potential vulnerabilities and areas for improvement.
+7. **Analyze Attack Patterns**: Conduct an analysis of the attack patterns observed during the monitoring phase, helping to inform future security strategies and defenses.
+8. **Enhance Technical Skills**: Improve my understanding and technical proficiency in using cloud security tools and best practices for incident response and monitoring.
 
 ---
 
