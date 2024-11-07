@@ -47,6 +47,7 @@ As I honed my skills as a freelance web developer, my focus gradually shifted to
 ### 🎓 Certifications
 
 - CompTIA Security+
+- ISC2 Certified in Cybersecurity
 - Google CyberSecurity Professional
 - Qualys Vulnerability Management, Detection, and Response (VMDR)
 - Qualys CyberSecurity Asset Management (CSAM)
