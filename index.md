@@ -139,7 +139,11 @@ As I honed my skills as a freelance web developer, my focus gradually shifted to
 
 ## 📂 Projects
 
-In this portfolio, you will find several projects that highlight my skills and practical experience. Here are three of my most recent projects:
+In this portfolio, you will find several projects that highlight my skills and practical experience. Here are a few of my most recent projects:
+
+### AIG Cybersecurity Engineering Program (September 2024)
+- Completed work as an **Information Security Analyst** to address the critical **Log4j vulnerability**, analyzing advisory resources and infrastructure to draft a detailed remediation plan and advisory email for affected teams.
+- Developed and executed a **Python-based brute-force script** to recover an encrypted file during a **ransomware incident**, demonstrating technical expertise in incident response and decryption methodologies.
 
 ### Virtual Security Operations Center (SOC) Project (October 2024)
 - Established a cloud-based SOC using Microsoft Azure, focusing on real-time monitoring and incident response over the course of a month, monitoring over **7.6 million events** and generating nearly **6,000 alerts**.
