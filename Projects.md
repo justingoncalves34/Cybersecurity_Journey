@@ -11,6 +11,7 @@ As you explore this page, you’ll find the highlights of programs I’ve comple
 
 ## Table of Contents
 - [Programs, Internships, and Virtual Experience](#programs-internships-and-virtual-experience)
+  - [AIG Cyber Security Engineering Program](#aig-cybersecurity-engineering-program-december-2024)  
   - [Telstra Cybersecurity Program](#telstra-cybersecurity-program-september-2024)
   - [Commonwealth Bank Intro to Cybersecurity Virtual Experience Program](#commonwealth-bank-intro-to-cybersecurity-program-august-2024)
   - [PwC Cybersecurity Virtual Experience Program](#pwc-switzerland-cybersecurity-program-august-2024)
@@ -34,6 +35,12 @@ As you explore this page, you’ll find the highlights of programs I’ve comple
 ---
 
 ## Programs, Internships, and Virtual Experience
+### AIG Cybersecurity Engineering Program (December 2024)  
+[View Full Report](programs/AIG_Security_Engineering_Program.pdf)  
+   - Served as an **Information Security Analyst** addressing the critical **Log4j vulnerability** (CVE-2021-44228), conducting research and infrastructure analysis to draft a detailed remediation plan for impacted teams.  
+   - **Crafted an advisory email** to notify the Product Development team of the vulnerability, detailing its risks, potential impacts, and actionable remediation steps to prevent exploitation.  
+   - Developed and executed a **Python-based brute-force script** to decrypt a ransomware-encrypted file during a simulated attack, showcasing technical proficiency in incident response and encryption methodologies.  
+
 ### Telstra Cybersecurity Program (September 2024)
 [View Full Report](programs/Telstra_Cybersecurity_Program.pdf)
    - Served as an **Analyst and Security Engineer** in the **Telstra Security Operations Center (SOC)**, leading efforts to respond to a **malware attack** targeting critical infrastructure and coordinating with relevant teams for swift incident response.
