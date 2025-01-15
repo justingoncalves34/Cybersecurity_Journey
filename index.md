@@ -71,10 +71,13 @@ As I honed my skills as a freelance web developer, my focus gradually shifted to
 
 ---
 
-### 🎓 Education
+### 🎓 Education and Training
+   - ***SANS Technology Institute*** (Feb. 2025 - October 2025)
+      - Selected for a prestigious and intensive cybersecurity program with courses designed to provide hands-on experience in offensive and defensive security techniques.
+      - Anticipated completion of industry-leading certifications such as GIAC Security Foundations **(GFACT)**, GIAC Security Essentials **(GSEC)**, and GIAC Certified Incident Handler **(GCIH)**.
    - ***University of Massachusetts Dartmouth, North Dartmouth, MA*** (2019 - 2020, 2022-2023)
       - Some education with a concentration in Finance and Financial Operations
-      - Completed coursework in _Business Statistics, Macro-Economics, Micro-Economics, Principles of Accounting, Operations Management, Financial Modeling, Investment Analysis, Financial Markets_
+      - Completed coursework in _Business Statistics, Macro-Economics, Micro-Economics, Principles of Accounting, Operations Management, Financial Modeling, Investment Analysis, Financial Markets
    - ***Boston Latin School, Boston, MA*** (2013 - 2019)
       - High School Diploma
       - Graduated from a prestigious exam school, ranked #1 in Massachusetts and 33rd nationally at the time of graduation.
@@ -163,7 +166,7 @@ In this portfolio, you will find several projects that highlight my skills and p
 
 ## 📄 Resume
 
-My resume is available for download [here](CyberSecurity_Resume.pdf) 
+My resume is available for download [here](Full_Resume.pdf) 
 
 ---
 
