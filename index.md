@@ -46,7 +46,9 @@ As I honed my skills as a freelance web developer, my focus gradually shifted to
 
 ### 🎓 Certifications
 
+- GIAC GFACT (GIAC Foundational Cybersecurity Technologies)
 - CompTIA Security+
+- CompTIA Network+
 - ISC2 Certified in Cybersecurity
 - Google CyberSecurity Professional
 - Qualys Vulnerability Management, Detection, and Response (VMDR)
