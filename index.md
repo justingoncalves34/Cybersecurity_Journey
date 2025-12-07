@@ -27,7 +27,9 @@ Here, you'll find a showcase of my journey through the world of cybersecurity, i
 ---
 
 ## 👨🏽‍💻 About Me
-My name is Justin Goncalves, and I am an aspiring cybersecurity professional with a diverse background in business management, data analysis, IT support, and web development. My strong curiosity and passion for solving complex challenges have driven my interest in information security, particularly in **penetration testing** and **ethical hacking**. I am currently focused on expanding my expertise in vulnerability management, threat detection, and incident response as I work toward becoming a **Tier 1 Cybersecurity Analyst**. 
+My name is Justin Goncalves, and I am a cybersecurity and IT professional with experience spanning network engineering, security operations, cloud security, and secure identity and endpoint management. My background in IT support, data analysis, and web development provides a strong technical foundation, while my work in network engineering has strengthened my skills in system hardening, troubleshooting complex infrastructure issues, and maintaining secure, compliant environments across Microsoft 365, Entra ID, Intune, and Purview.
+
+I am continually advancing my expertise and education in threat detection, vulnerability management, and incident response, applying a security-first mindset to both operational tasks and long-term infrastructure improvements. My approach blends hands-on troubleshooting with proactive security practices to protect critical systems and enhance organizational resilience.
 
 ### For me, _cybersecurity isn’t just a job—it’s a chance to protect the future, make a meaningful impact, and contribute to a safer, more resilient digital world._
 
