@@ -27,7 +27,7 @@ Here, you'll find a showcase of my journey through the world of cybersecurity, i
 ---
 
 ## 👨🏽‍💻 About Me
-My name is Justin Goncalves, and I am a cybersecurity and IT professional with experience spanning network engineering, security operations, cloud security, and secure identity and endpoint management. My background in IT support, data analysis, and web development provides a strong technical foundation, while my work in network engineering has strengthened my skills in system hardening, troubleshooting complex infrastructure issues, and maintaining secure, compliant environments across Microsoft 365, Entra ID, Intune, and Purview.
+My name is Justin Goncalves, and I am a cybersecurity and IT professional with experience spanning network engineering, security operations, cloud security, and secure identity and endpoint management. My background in IT support, data analysis, and web development provides a strong technical foundation, while my work in network engineering has strengthened my skills in system hardening, troubleshooting complex infrastructure issues, and maintaining secure, compliant environments across Microsoft 365, Active Directory, Intune, and more.
 
 I am continually advancing my expertise and education in threat detection, vulnerability management, and incident response, applying a security-first mindset to both operational tasks and long-term infrastructure improvements. My approach blends hands-on troubleshooting with proactive security practices to protect critical systems and enhance organizational resilience.
 
