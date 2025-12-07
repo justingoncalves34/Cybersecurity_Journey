@@ -40,9 +40,11 @@ Read my professional statement: [Professional Statement](Professional_Statement.
 ---
 
 ### 📖 Background
-I started my career working in pharmacy and healthcare, where I developed a passion for helping others. However, I was drawn to the endless possibilities that technology offers. My curiosity pushed me toward web development, a field that offered the freedom to innovate and build solutions from scratch, all while learning new skills constantly.
+I began my career in pharmacy and healthcare, where I developed a strong foundation in helping people, solving problems, and working in high-responsibility environments. Over time, I found myself increasingly drawn to technology—the creativity, the complexity, and the ability to build solutions that could scale far beyond individual interactions. This curiosity led me into web development, where I gained hands-on experience designing systems, understanding user needs, and strengthening my technical mindset.
 
-As I honed my skills as a freelance web developer, my focus gradually shifted to cybersecurity. The growing threats of **fraud**, **hacking**, and **cybercrime** piqued my interest, and I became deeply committed to understanding how to **mitigate risks** and **protect digital environments**. With a passion for learning and my commitment to data protection, I am constantly driven to explore the rapidly changing world of cybersecurity.
+As I grew more comfortable in the world of technology, my focus shifted toward cybersecurity. The rise of cyber threats, fraud, and digital vulnerabilities sparked a desire to understand how systems fail and how they can be protected. What began as curiosity evolved into a dedicated pursuit, ultimately guiding me toward IT support, vulnerability management, network engineering, and defensive security practices.
+
+Today, I combine my experience in IT, development, and security to protect infrastructure, strengthen identity and endpoint security, and contribute to safer digital environments. My journey reflects continuous growth, curiosity, and a commitment to defending the systems people rely on every day.
 
 ---
 
