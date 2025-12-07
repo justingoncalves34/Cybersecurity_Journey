@@ -93,7 +93,14 @@ Today, I combine my experience in IT, development, and security to protect infra
 ### 💡 Skills
 
 #### 🛡️ Technical Skills
+   -	Endpoint Detection & Response (EDR)
    - Incident Detection & Response
+   - Cloud and Enterprise Security
+   - Data Loss Prevention (DLP)
+   - Network Monitoring and Engineering
+   - Switch Configuration & Management (Aruba, Juniper)
+   - Group Policy Objects (GPO) Administration
+   - Zero Trust Architecture Principles
    - Vulnerability Management
    - Penetration Testing
    - Network Security
@@ -135,6 +142,8 @@ Today, I combine my experience in IT, development, and security to protect infra
    - Wireshark
    - BurpSuite
    - Metasploit
+   - Microsoft 365 Admin Center
+   - Active Directory,
    - Microsoft Azure + Sentinel
    - Linux
    - Chronicle
