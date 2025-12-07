@@ -128,6 +128,9 @@ Today, I combine my experience in IT, development, and security to protect infra
      - CIS Controls
 
 #### 💼 Professional Skills
+   - Technical Troubleshooting
+   - Root Cause Analysis
+   - Security Awareness Training
    - Incident Response Leadership
    - Critical Thinking
    - Problem Solving
