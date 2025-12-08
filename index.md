@@ -202,7 +202,7 @@ Feel free to reach out to me if you have any questions, opportunities, or just w
 
 - **Email**:
    - personal: justingoncalves34@gmail.com
-   - work: justin@digitweb.solutions
+   - work: jgoncalves@sorbis.com
 - **LinkedIn**: [Justin Goncalves](https://www.linkedin.com/in/justingoncalves/) 
 - **Portfolio**: [@justingoncalves](https://justingoncalves34.github.io/Cybersecurity_Journey/)
 
