@@ -87,6 +87,7 @@ As you explore this page, you’ll find the highlights of programs I’ve comple
 
 ### Recorded Future Cyber Threat Intelligence Project
 [View Written Report](programs/AIG_Security_Engineering_Program.pdf)
+
 [View Technical Presentation](programs/AIG_Security_Engineering_Program.pdf)
 - Designed a threat intelligence architecture integrating Microsoft Sentinel, Defender, Entra ID, and Recorded Future capabilities for a simulated enterprise environment.
 - Developed SIEM and SOAR-driven workflows focused on phishing, identity compromise, suspicious authentication activity, and IOC detection.
