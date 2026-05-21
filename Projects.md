@@ -86,7 +86,7 @@ As you explore this page, you’ll find the highlights of programs I’ve comple
 ## Projects/Activities 
 
 ### Recorded Future Cyber Threat Intelligence Project
-[View Full Project](programs/Recorded_Future_Cyber_Threat_Intelligence_Project.pdf)
+[View Full Project](Recorded_Future_Cyber_Threat_Intelligence_Project.md)
 - Designed a threat intelligence architecture integrating Microsoft Sentinel, Defender, Entra ID, and Recorded Future capabilities for a simulated enterprise environment.
 - Developed SIEM and SOAR-driven workflows focused on phishing, identity compromise, suspicious authentication activity, and IOC detection.
 - Engineered automated alert enrichment and response workflows using Tines SOAR to improve incident response efficiency.
