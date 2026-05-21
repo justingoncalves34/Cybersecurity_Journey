@@ -11,7 +11,6 @@ As you explore this page, you’ll find the highlights of programs I’ve comple
 
 ## Table of Contents
 - [Programs, Internships, and Virtual Experience](#programs-internships-and-virtual-experience)
-  - [Recorded Future Cyber Threat Intelligence Project](#aig-cybersecurity-engineering-program-december-2024)
   - [AIG Cyber Security Engineering Program](#aig-cybersecurity-engineering-program-december-2024)  
   - [Telstra Cybersecurity Program](#telstra-cybersecurity-program-september-2024)
   - [Commonwealth Bank Intro to Cybersecurity Virtual Experience Program](#commonwealth-bank-intro-to-cybersecurity-program-august-2024)
@@ -19,6 +18,7 @@ As you explore this page, you’ll find the highlights of programs I’ve comple
   - [Datacom Cybersecurity Virtual Experience Program](#datacom-cybersecurity-virtual-experience-program-august-2024)
   - [Mastercard Cybersecurity Virtual Experience Program](#mastercard-cybersecurity-virtual-experience-program-august-2024)
 - [Projects/Activities](#projectsactivities)
+  - [Recorded Future Cyber Threat Intelligence Project](#recorded-future-cyber-threat-intelligence-project)
   - [Virtual Security Operations Center (SOC) Project](#virtual-security-operations-center-soc-project)
   - [Cybersecurity Incident Response Project (NIST CSF)](#cybersecurity-incident-response-project-nist-csf)
   - [Cybersecurity Network Attack Analysis Project](#cybersecurity-network-attack-analysis-project)
@@ -85,7 +85,7 @@ As you explore this page, you’ll find the highlights of programs I’ve comple
 
 ## Projects/Activities 
 
-### Recorded Future Cyber Threat Intelligence Project (February 2026) 
+### Recorded Future Cyber Threat Intelligence Project
 [View Written Report](programs/AIG_Security_Engineering_Program.pdf)
 [View Technical Presentation](programs/AIG_Security_Engineering_Program.pdf)
 - Designed a threat intelligence architecture integrating Microsoft Sentinel, Defender, Entra ID, and Recorded Future capabilities for a simulated enterprise environment.
