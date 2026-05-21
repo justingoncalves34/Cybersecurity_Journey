@@ -11,6 +11,7 @@ As you explore this page, you’ll find the highlights of programs I’ve comple
 
 ## Table of Contents
 - [Programs, Internships, and Virtual Experience](#programs-internships-and-virtual-experience)
+  - [Recorded Future Cyber Threat Intelligence Project](#aig-cybersecurity-engineering-program-december-2024)
   - [AIG Cyber Security Engineering Program](#aig-cybersecurity-engineering-program-december-2024)  
   - [Telstra Cybersecurity Program](#telstra-cybersecurity-program-september-2024)
   - [Commonwealth Bank Intro to Cybersecurity Virtual Experience Program](#commonwealth-bank-intro-to-cybersecurity-program-august-2024)
@@ -84,6 +85,14 @@ As you explore this page, you’ll find the highlights of programs I’ve comple
 
 ## Projects/Activities 
 
+### Recorded Future Cyber Threat Intelligence Project (February 2026) 
+[View Written Report](programs/AIG_Security_Engineering_Program.pdf)
+[View Technical Presentation](programs/AIG_Security_Engineering_Program.pdf)
+- Designed a threat intelligence architecture integrating Microsoft Sentinel, Defender, Entra ID, and Recorded Future capabilities for a simulated enterprise environment.
+- Developed SIEM and SOAR-driven workflows focused on phishing, identity compromise, suspicious authentication activity, and IOC detection.
+- Engineered automated alert enrichment and response workflows using Tines SOAR to improve incident response efficiency.
+- Authored a technical report and stakeholder presentation outlining security architecture, detection logic, and incident response procedures.
+   
 ### Virtual Security Operations Center (SOC) Project  
 [View Full Report](Virtual_SOC_Environment.md)  
 - Established a cloud-based SOC using Microsoft Azure and Microsoft Sentinel, focusing on real-time monitoring and incident response.  
