@@ -19,7 +19,7 @@ In addition to creating detailed security architecture diagrams and operational 
 ## Project Deliverables
 
 - [View Full Technical Report](activities/Recorded_Future_Cyber_Threat_Intelligence_Report.pdf)
-- [View Technical Presentation](activities/RF_Practical_Assessment_Presentation_Component.pdf)
+- [View Technical Presentation](activities/Recorded_Future_Cyber_Threat_Intelligence_Presentation.pdf)
 
 ---
 
