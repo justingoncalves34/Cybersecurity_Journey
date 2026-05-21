@@ -10,7 +10,7 @@
 
 The Recorded Future Cyber Threat Intelligence Project focused on designing a threat intelligence-driven security architecture for a simulated multi-site hospitality organization based on a realistic enterprise environment. The project emphasized improving security visibility, investigation efficiency, and operational response workflows through the integration of Microsoft Sentinel, SentinelOne, Entra ID, ServiceNow, Tines SOAR, and Recorded Future threat intelligence capabilities.
 
-The assessment involved analyzing the organization’s existing security posture, identifying operational gaps, documenting current-state and future-state security architectures, recommending intelligence-driven integrations, and developing practical use cases aligned with the organization’s workflows and threat landscape.
+The assessment involved analyzing a real-world organization’s existing security posture, identifying operational gaps, documenting current-state and future-state security architectures, recommending intelligence-driven integrations, and developing practical use cases aligned with the organization’s workflows and threat landscape.
 
 In addition to creating detailed security architecture diagrams and operational data flows, I authored a comprehensive technical report and delivered a formal stakeholder presentation outlining the proposed security improvements, threat intelligence integrations, operational workflows, and automation use cases.
 
