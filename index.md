@@ -53,6 +53,8 @@ Today, I combine my experience in IT, development, and security to protect infra
 - GIAC GFACT (GIAC Foundational Cybersecurity Technologies)
 - CompTIA Security+
 - CompTIA Network+
+- Microsoft: AZ-900: Azure Fundamentals
+- AZ-104: Azure Administrator Associate
 - ISC2 Certified in Cybersecurity
 - Google CyberSecurity Professional
 - Qualys Vulnerability Management, Detection, and Response (VMDR)
