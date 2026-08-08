@@ -5,9 +5,9 @@ Welcome to my cybersecurity portfolio repository. This repository contains a bri
 For a complete view of my portfolio, visit my [full portfolio](index.md).
 
 ## Repository Overview
-- **Certifications**: Displaying key certifications, including CompTIA Security+, NIMS certifications, and more.
-- **Projects**: Showcasing key cybersecurity projects and virtual experiences with companies like PwC, Mastercard, and Commonwealth Bank.
-- **Labs**: Highlighting hands-on labs from platforms like TryHackMe and HackThisSite.
+- **Certifications**: Displaying key certifications from CompTIA, ISC2, Microsoft, GIAC, and more.
+- **Projects**: Showcasing key cybersecurity projects and virtual experiences with companies such as PwC, AIG, and Commonwealth Bank.
+- **Labs**: Highlighting hands-on labs, case studies, and more.
 - **Resume**: My professional resume is available for download [here](Full_Resume.pdf).
 
 Feel free to explore and connect!
